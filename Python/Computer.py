@@ -3,7 +3,7 @@ import requests
 import os
 
 # ebb: This variable stores the website address that you want to scrape.
-archive_url = "http://www.textfiles.com/computers/"
+archive_url = "http://www.textfiles.com/computers/ASTRESEARCH/"
 
 def get_tales():
     # create response object
@@ -13,9 +13,9 @@ def get_tales():
     soup = bs4.BeautifulSoup(r.content, 'html.parser')
 
     # find all links on web-page
-    for item in soup.findAll('size'):
-        link = item.find('4')
-        href = archive_url + link['href']
+    for item in soup.findAll('tr'):
+        link = item.find('')
+        href = archive_url + link['href=']
         download_links(href)
     print("All tales downloaded!")
     # ebb: The print line indicating
@@ -34,7 +34,7 @@ def download_links(href):
     workingDir = os.getcwd()
     
     print("Ray's 210Repo: " + workingDir)
-    fileDeposit = os.path.join(workingDir, 'grimmTales', "Computer-files.html")
+    fileDeposit = os.path.join(workingDir, "Computer-files.html")
     print(fileDeposit)
 
 
