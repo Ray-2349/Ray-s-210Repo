@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Receiving an all-call on our Syndicate frequency. It's a Red Veil encode but... it
+            seems truncated. I will play back what I have...</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Speak to us. We're listening. What is your name?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. R-r-r-ellllll.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Good, you remember. We want to help you, Rell. Tell us where you are.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. Can't. He's listening.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Who? Rell, who is listening?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap. Rap. Tap. Tap.</speech>
+    </sp>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Sorry Operator. The message appears haunted - halted. It originated from a Steel
+            Meridian ship near Earth. Will you investigate? I hope not.</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Emergency power. Not detecting any crew. I don't like this. Search the
+            area.</speech>
+    </sp>
+    <infoMarked>Upon seeing dead bodies</infoMarked>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Blades. Too refined for a Grineer kill-squad. Is there anything else?</speech>
+    </sp>
+    <infoMarked>Red Veil sign</infoMarked>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Red Veil. Could they have done this? The Veil have been Meridian allies for years.
+            Search for survivors.</speech>
+    </sp>
+    <info>YOU CAST HIM OUT</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Tenno? I lost you for a second. What did you see?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Holy child of Zariman, please help me. I serve the Veil but the flock has been
+            driven mad. I humbly beg for the protection of you and your vessel.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>I'm marking the area. Stay alert. It may be an ambush.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Great, blind,<sic/>Queen... help me reach the safety of Iron Wake. Our sacred muse
+            has abandoned the temple, leaving our people in chaos.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Tenno, if the Red Veil is in chaos we must intervene. Get Palladino to Iron
+            Wake.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Oh holy child, I am grateful for-<infoMarked>her Kavat growls</infoMarked>What is it
+            Rook? Are they back?!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Brothers of blood, sisters of fire, resist the muse!</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Blessed star child, I owe you my life. Will you meet me at Iron Wake? Only you can
+            right this wrong.</speech>
+    </sp>
+    <info>Mission Failure</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>You were supposed to protect her. This mission is a failure.</speech>
+    </sp>
+    <info>Sound Effects</info>
+    <info>Pain</info>
+    <soundEffect>(grunts)</soundEffect>
+    <info>Death</info>
+    <soundEffect>(dying)</soundEffect>
+    <info>Meet Palladino at Iron Wake; Earth, Iron Wake</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Steel Meridian has received Palladino. You've been granted access to enter their
+            base, Operator.</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Iron Wake. Steel Meridian has built an impressive base of operations right under the
+            nose of the Grineer authority. The Veil's Speaker will be here, under guard. Find
+            her.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Leave your vessel at the door, sacred child. Come.</speech>
+    </sp>
+    <info>1st seance</info>
+    <infoMarked>Rook growls</infoMarked>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Hush, Rook, this is our sacred guest! I am Palladino. Holy speaker of the Veil, like
+            my mother, and hers before... We speak to the other side, to him. Without his focus, I
+            pray... I pray he answers.</speech>
+    </sp>
+    <infoMarked>Bell chime</infoMarked>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Righteous Rell - of harrowed stars - of hallowed chains. Speak. For an age you've
+            guarded the divide between Dust and Void. Speak. From within your everlasting sacred
+            vessel, you've held the lidless eye. Speak!</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech><infoMarked>sighs</infoMarked>I cannot reach holy Rell from here. I will need his
+            sacred focus: a relic stolen from the temple. I beg of you to find it and return it
+            here. Only then, will he speak to us. Only then will we truly understand.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Veil rituals will incite fanaticism, but don't be drawn in. I'm not convinced this
+            'Rell' even exists. I fear we'll have to play Palladino's game to find out. Ordis has
+            been tracking Red Veil disturbances... that's the best place to start.</speech>
+    </sp>
+    <info>Find Rell's relic; Pluto, Hydra</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Operator! A Red Veil Seance! How... delightful? I have marked a possible Red Veil
+            disturbance but... perhaps you would prefer to- brew some leaves and... Sorry.
+            Navigation is bleeding, Operator.</speech>
+    </sp>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Uhh... Waiting. Navigation is waiting. Oh, my.</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Find Rell's object-of-focus, child. You are close to this sacred relic, I am
+            certain.</speech>
+    </sp>
+    <info>HE SUFFERS WHILE YOU DREAM</info>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>These messages, they express Rell's suffering. He's lashing out. I should have seen
+            the cracks forming...</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>I don't understand. How would Rell know about the dream?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Great Sentient Queen, forgive me, but what you are, what you've made of yourself...
+            is merely drawn from the dreams of these divine children. You are not she, you are
+            not... Margulis.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>What are you saying? That Rell is a Tenno? Impossible. All Tenno are known to me. I
+            protect them, as she did.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Oh, but not Rell. Margulis cast him out, for he was different. Our foremothers took
+            him in and studied his teachings. We became the Veil. The shroud of his blessed
+            existence.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Cast out... I don't believe you—</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap. The man in the wall.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>The man in the wall! That is what he called it. Hush... try to follow his
+            voice!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. Mmm.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>The Donda! His mother gave him this. Holy Rell was not like other children. Sound,
+            color, touch... it overwhelmed him. The Donda's hum let him focus.</speech>
+    </sp>
+    <info>TAKE THE DONDA</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmmmm - No! MINE!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap. Rap. Tap. Tap.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Rell! What evil is this!? Sacred child, forgive me. I should have known the weight
+            of the Void would one day crush the light from you.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Rell has become the very thing he warned us of. You cannot kill this, Tenno. Run!
+            You can only run!</speech>
+    </sp>
+    <info>Return to Iron Wake; Earth, Iron Wake</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Operator, what was that... thing? Lotus, can you explain this? Lotus?!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Transference energy, fractured. It was so... cold, indifferent, inhuman. If Rell was
+            Tenno, what did he become without Margulis?</speech>
+    </sp>
+    <info>2nd seance</info>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>I have served Rell my whole life. Studying Rell's teachings of the Void, the dire
+            consequence of travelling by and through it. Now I see that it is true: he alone, in his
+            harrowing sacrifice, has guarded us. What a price he has paid.</speech>
+    </sp>
+    <infoMarked>Bell chime</infoMarked>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Righteous Rell - outcast of sacred Void - hear my voice. Speak. You have been driven
+            from the vessel by your suffering. You have swallowed the poison stars so we would
+            not... Holy Rell, Speak! The Tenno who rejected you have come to your aid!</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>He's here... The Donda, it's working, giving him humanity. We are listening Rell...
+            Speak!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm... shy?</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>No, try again.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>This one?</speech>
+    </sp>
+    <infoLine>
+        <info>Sad</info>
+        <info>Angry</info>
+        <info>Confused</info>
+        <info>Sick</info>
+    </infoLine>
+    <sp><infoMarked>advances the dialogue</infoMarked>&#x9;<speaker>Rell</speaker><speech>Mmm...
+            angry?</speech></sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>No. Try again.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm... confused?</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Close...</speech>
+    </sp>
+    <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Very good.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>And this one?</speech>
+    </sp>
+    <infoLine>
+        <info>Embarrassed</info>
+        <info>Sleepy</info>
+        <info>Shy</info>
+        <info>Surprised</info>
+    </infoLine>
+    <sp><infoMarked>advances the dialogue</infoMarked>&#x9;<speaker>Rell</speaker><speech>Mmm...
+            sleepy.</speech></sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Close...</speech>
+    </sp>
+    <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm... surprised.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>No. Try again.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Good Rell!</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>And how about this one?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Momma.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Yes, Rell—</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Momma!</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Go ahead, Rell.</speech>
+    </sp>
+    <infoLine>
+        <info>Nervous</info>
+        <info>Sleepy</info>
+        <info>Excited</info>
+        <info>Grumpy</info>
+    </infoLine>
+    <sp><infoMarked>advances the dialogue</infoMarked>&#x9;<speaker>Rell</speaker><speech>Mmm...
+            sleepy.</speech></sp>
+    <spLine>
+        <sp>
+            <speaker>Kay</speaker>
+            <speech>No. Try again.</speech>
+        </sp>
+        <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    </spLine>
+    <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>We're in a ship.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Yes?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Impossible speed, beyond the Brankle Gap constant.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Uh, I think so... you're better with that stuff. But it's amazing isn't
+            it?-</speech>
+    </sp>
+    <infoLine>
+        <info>Confused</info>
+        <info>Proud</info>
+        <info>Hungry</info>
+        <info>Scared</info>
+    </infoLine>
+    <spLine>
+        <sp><infoMarked>advances the
+                dialogue</infoMarked><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try
+                again.</speech></sp>
+        <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+        <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    </spLine>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>So why don't they fix me?</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Rell. You know why.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm.</speech>
+    </sp>
+    <infoLine>
+        <info>Grumpy</info>
+        <info>Bored</info>
+        <info>Disgusted</info>
+        <info>Nervous</info>
+    </infoLine>
+    <spLine>
+        <sp><infoMarked>advances the
+                dialogue</infoMarked>&#x9;<speaker>Kay</speaker><speech>Close...</speech>/<speech>No.
+                Try again.</speech></sp>
+        <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+        <sp><speaker>Kay</speaker><speech>Close...</speech>/<speech>No. Try again.</speech></sp>
+    </spLine>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Rell. Why?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. Because I'm not broken.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>That's right. Different, so I love you even more.</speech>
+    </sp>
+    <infoLine>
+        <info>Happy</info>
+        <info>Happy</info>
+        <info>Happy</info>
+        <info>Happy</info>
+    </infoLine>
+    <infoLine>
+        <infoMarked>advances the dialogue</infoMarked>
+        <infoMarked>advances the dialogue</infoMarked>
+        <infoMarked>advances the dialogue</infoMarked>
+        <infoMarked>advances the dialogue</infoMarked>
+    </infoLine>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Happy.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Yes Rell! You make me so happy.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>This memory - his humanity still remains, buried in these emotions he so often
+            failed to grasp. Could they be the key to saving him from this?</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Tenno - I have a theory. Return to your Orbiter and I'll explain.</speech>
+    </sp>
+    <info>Capture Rell's manifestations; Derelict</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>These disturbances, they are Transference energy, split apart from a single mind. If
+            we could capture them, send them back...</speech>
+    </sp>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Operator - Simaris may have a tool for this task. I wonder if his Kinetic Siphons
+            could be repurposed to- bust ...capture these manifestations?</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Holy Rell, let us bring you the peace you have earned... Guide this Tenno so you can
+            return to the Harrowing vessel... so that you might rest.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Rell's warnings... those dire consequences... he was talking about Void exposure,
+            wasn't he? The effect it has on human minds is well understood...</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>But it's not. This isn't some kind of deep pressure bends as Margulis suspected.
+            Rell saw what it was, truly. An entity, indifferent. Old as stars.</speech>
+    </sp>
+    <info>BLINDED SHE CAST HIM OUT</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. My fault. Touching is too much noise. It makes me... makes me...
+            angry.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>There! An emotion, manifest from the game Rell played as a child!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>See if you can stabilize it with a Kinetic Siphon.</speech>
+    </sp>
+    <infoMarked>Repeating hint lines. They appear in the next two missions as well.</infoMarked>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Tenno, you need to capture it!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>It's too strong for the Siphon, try and weaken it.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>The manifestation is fighting the Siphon. See if you can damage it.</speech>
+    </sp>
+    <infoMarked>If player runs out of Kinetic Siphons at any point in this mission</infoMarked>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>You've run out of Kinetic Siphons. I'm sorry, there is nothing more you can do
+            here.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Rap. Tap. Tap. I don't want to go back!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>I'm detecting other manifestations. Defend yourself and try to trap them.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Another, don't let it escape!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>He's listening. He knows what you're doing. It makes him stronger.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Good. You've captured the manifestations here. Now get out before Rell's disturbance
+            catches up with you.</speech>
+    </sp>
+    <info>Manifestation Capture</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Angry: Someone takes the thing you love.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Bored: Waiting too much. There is nothing fun to look at.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Embarrassed: Talking and everyone looks at you.</speech>
+    </sp>
+    <info>Capture Rell's manifestations; Uranus, Stefano</info>
+    <infoMarked>On mission entry</infoMarked>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>I don't know if you can make Rell whole again, but whatever you're doing, this
+            disturbance is growing stronger, resisting you. Don't let it stop you. Bring Rell home,
+            to the temple.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Is that where Rell is? Has the Veil preserved him in cryosleep as the other Tenno
+            were on Lua?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>No. We didn't have that option.</speech>
+    </sp>
+    <info>YOU REJECTED HIM</info>
+    <info>HE SAVED YOU</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>He's listening but I'm so... Help me.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Rell... it's just you, alone and trapped in a Transference loop. Don't give into
+            these delusions of Void exposure. There is no man in the wall.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Don't say that!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>They are here - the Transference pieces. Track down these manifestations and capture
+            them.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Why are you helping me? You hated me.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Alright, no more to be found here. Get to extraction.</speech>
+    </sp>
+    <info>Manifestation Capture</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Excited: All the spider eggs are starting to hatch!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Happy: Momma has a stretchy smile.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Sad: Why did the babies eat the mother?</speech>
+    </sp>
+    <info>Capture Rell's manifestations; Earth, Everest</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>Operator, there is no evidence of any... thing... in the Void. By my calculations,
+            Rell has lost control of his Transference. If we can gather these emotions I hope he
+            will be himself again.</speech>
+    </sp>
+    <sp>
+        <speaker>Ordis</speaker>
+        <speech>You will need Kinetic Siphons to trap Rell's emotions. Simaris will have some for
+            sale in the Relay.</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>How could Rell have lived this long? Without the long dream?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>In a way, he didn't. He knew his mortality would undo his purpose, so he gave up his
+            humanity, forever. He committed his soul to the undying vessel-</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>His Warframe.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Yes. He commanded we chain it within the depths of the sacred temple. An eternal
+            vigil against the Indifference.</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>And you believed him. You helped him do it.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Yes. After everything you've seen, wouldn't you?</speech>
+    </sp>
+    <info>WHAT IS EVIL BUT INDIFFERENCE</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>There, Tenno! Trap it!</speech>
+    </sp>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>Another, don't let it escape!</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Blessed Tenno, Rell has returned to his sacred vessel. I will join him there at
+            once. Please, come, for I fear... I haven't got the strength to do what must be done
+            next...</speech>
+    </sp>
+    <info>Manifestation Capture</info>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Shy: Meeting someone new and can't say hello.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Scared: You look around and Momma's not there.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Tired: You run and run until you can't<sic>, voiced "can't
+            run"</sic>anymore.</speech>
+    </sp>
+    <info>Enter the Temple; Void, Tiwaz</info>
+    <info>On Orbiter</info>
+    <sp>
+        <speaker>Lotus</speaker>
+        <speech>If Rell's been caught in a Transference loop for this long... the psychological
+            effects could have been catastrophic. This 'man in the wall', these delusions, symptoms
+            of the Void exposure all Tenno experienced. I hope that Palladino can find peace for
+            Rell so this never happens again.</speech>
+    </sp>
+    <info>In Mission</info>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Our temple. Our home. His tomb. Come. Meet our guiding light.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>This is why you're here, Tenno. It is time for holy Rell to rest. But I cannot bring
+            myself to do it... to let him go. He's kept us, all of us, safe for so long and it's
+            time for you to carry on. Release him, Tenno. Destroy the chains that bind the Harrowing
+            vessel. He's earned his rest.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>You may enter here, but only as your true, sacred form.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Holy Rell. You have sacrificed enough. Pass on your burden and rest. Tenno. Destroy
+            the chains... only your sacred power will damage them.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Tenno- something's wrong. That's not Rell, that's--</speech>
+    </sp>
+    <sp>
+        <speaker>The Indifference</speaker>
+        <speech>Let's have a little quiet. It's my turn to ask the questions.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Well, love, I told you. You can't pet her that hard, be gentle or she'll bite. Are
+            you okay, Rell?</speech>
+    </sp>
+    <infoLine>
+        <info>Happy</info>
+        <info>Angry</info>
+        <info>Embarrassed</info>
+    </infoLine>
+    <sp>
+        <speaker>The Indifference</speaker>
+        <speech>I won't let you take me... from me.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>What have you done to Rell?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>Tenno! You need to save him from this... Destroy the chains-</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>How dare you laugh at him! You should be ashamed of yourselves! Don't look away.
+            Look at him. He's not invisible!</speech>
+    </sp>
+    <infoLine>
+        <info>Excited</info>
+        <info>Embarrassed</info>
+        <info>Proud</info>
+    </infoLine>
+    <sp>
+        <speaker>The Indifference</speaker>
+        <speech>Rap. Tap. Tap. You'll let me in, little piggy.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Momma's... not... herself, Rell. I don't think... I think you should wait with the
+            other kids, until they fix the ship. I love you but... you have to go! Go!</speech>
+    </sp>
+    <infoLine>
+        <info>Nervous</info>
+        <info>Scared</info>
+        <info>Confused</info>
+    </infoLine>
+    <sp>
+        <speaker>The Indifference</speaker>
+        <speech>But the in-kids don't care about the invisible outs. If you were alone in that
+            drift... you'd need a friend... even like me.</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>By sacred shadow and righteous blood - Blessed Rell! Your aged Vessel is dust and
+            your chains are broken. Be free!</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. But the man in the wall. Who will... ?</speech>
+    </sp>
+    <sp>
+        <speaker>Palladino</speaker>
+        <speech>They will have to. All of them. They owe you this. We all do.</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Mmm. Yea. I feel...</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Go on Rell, which one?</speech>
+    </sp>
+    <infoLine>
+        <info>Sleepy</info>
+        <info>Sleepy</info>
+        <info>Sleepy</info>
+    </infoLine>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>This one, Momma. I feel... tired.</speech>
+    </sp>
+    <sp>
+        <speaker>Kay</speaker>
+        <speech>Good Rell! You're learning! Well? Why don't you have a little rest then?</speech>
+    </sp>
+    <sp>
+        <speaker>Rell</speaker>
+        <speech>Okay... Okay Momma.</speech>
+    </sp>
+    <info>Post-quest dialogue</info>
+    <sp>
+        <speaker>???</speaker>
+        <speech>Hey kiddo.</speech>
+    </sp>
+    <info>Inbox message</info>
+    <message>“<messageBody>An Offering of Gratitude<mlb/>With Rell at peace, we will rebuild in his
+            honor. We will do what we have always done: take the outcasts, the ones that don't fit
+            in, and prepare them. Thank you, to you and your great Queen for setting Rell to rest.
+            Take this offering, it's the thing of greatest value I can give you.</messageBody>”
+        —Palladino</message>
+</xml>

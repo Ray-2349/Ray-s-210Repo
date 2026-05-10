@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>Voidtongue</infoMarked>
+        </speech>
+    </sp>
+    <info>Inbox Message</info>
+    <message>“<messageBody>URGENT<mlb/>Tenno,<mlb/>Please meet me at the Necralisk as soon as you
+            are able. This cannot wait.<mlb/>Discretion is paramount. Tell
+            nobody.<mlb/>Loid</messageBody>”</message>
+    <info>The Kalymos Sequence</info>
+    <info>Follow Loid</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Ah! My lonely vigil is over. Follow me, Tenno, and on no account wake the family!
+            Despite their conflicts they sleep in peace, but a solitary dream plagues me.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>You must understand: constructs CANNOT dream. And yet, I have.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>In my dream, one single name repeats. KALYMOS</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>
+            <infoMarked>GASP</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>The memories surface, long locked away. This was no dream, Tenno. It was a precept.
+            The Kalymos Sequence.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>I must fulfill this dormant precept. The Kalymos Sequence has begun, and it cannot
+            be undone.</speech>
+    </sp>
+    <info>Explore</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>I have one responsibility in the Kalymos Sequence: Awaken the Sleeper. But I cannot
+            do it alone. Please, assist me once more?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>I fear we are off the edge of the map, and into the domain of monsters. Master
+            Entrati never completed his final project: the VESSELS. The Sequence dictates they
+            cannot awaken before the Sleeper does.</speech>
+    </sp>
+    <sp>
+        <speaker>Automated Announcer</speaker>
+        <speech/>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Do you hear that? Let us hope The Sleeper is untroubled by such... strangeness. Find
+            them.</speech>
+    </sp>
+    <info>The Murmur</info>
+    <info>Find the Sleeper</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Necramechs. Poor, abandoned things. Still faithfully following Master Entrati's last
+            command, to defend. Show mercy, Tenno. End them.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>Voidtongue</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Master Entrati called it the Voidtongue. He feared it was meaningless... and feared
+            more that it was not.</speech>
+    </sp>
+    <info>Take Albrecht Entrati's Grimoire</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>There! That book was like a diary to Master Entrati, his grimoire! No doubt it holds
+            the secrets of the Vessels, and of the Kalymos Sequence! Take it, Tenno!</speech>
+    </sp>
+    <info>Eliminate the Necramechs</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>The grimoire is very... active. It is... reading ... you!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>I confess it galls me slightly to see a compendium of knowledge used as a weapon,
+            but needs must. We need be in no doubt of your skill, at any rate.</speech>
+    </sp>
+    <info>Find the Sleeper</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>Voidtongue</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>A monstrous danger, these labs. Better off sealed. We can only hope The Sleeper has
+            been untouched by this vast horror. This great Indifference.</speech>
+    </sp>
+    <info>Defeat The Fragmented Tide</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>I ask too much of you, Tenno. These horrors must be stopped!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>If these fragments were to unite... Destroy them swiftly, Tenno!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Right. Onward.</speech>
+    </sp>
+    <info>Find the Sleeper</info>
+    <sp>
+        <speaker>Automated Announcer</speaker>
+        <speech><infoMarked>Subway chimes</infoMarked>The next train is arriving. Doors are on the
+            right.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>A trap? Master Entrati jealously protected his most adored possessions - be they
+            objects... or people. Come. The Sleeper awaits.</speech>
+    </sp>
+    <info>Open the Sleeper's Cryopod</info>
+    <sp>
+        <speaker>???</speaker>
+        <speech>The Kalymos Sequence has begun? Did he send you? Is he... No. No, of course he
+            didn't. That would be impossible.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>This is, well, Loid. The original. All emotional centers very much intact. Did you
+            have a good sleep?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Ah. The 'helpful' Necraloid my Albrecht had made, so that I might have assistance...
+            and company. Perhaps that made it... easier for him to leave.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Resume your duties, construct.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Resume your duties, construct.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Please, follow me, uh...</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>This is a Tenno. An orphan of the Void, continuing the struggle our Master
+            abandoned.</speech>
+    </sp>
+    <info>Follow Loid</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>A Tenno? A deserter, presumably? Is it not aware there's a war going on? *sigh* So.
+            The war, too, is just a memory now.</speech>
+    </sp>
+    <info>Into the Void</info>
+    <info>Examine the Cavia</info>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Tenno, while Loid completes his inspections, you'd better meet the Cavia... a
+            reminder of darker times. Though Master Entrati always hoped the awaited Operator would
+            be able to understand them?</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Yara mig!</speech>
+    </sp>
+    <sp>
+        <speaker>Tagfer</speaker>
+        <speech>
+            <infoMarked>moan</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Bird 3</speaker>
+        <speech>Zek? Aba! Zek? Zek?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Ugh, an... incomplete experiment, one might say.</speech>
+    </sp>
+    <info>Speak with Loid</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Albrecht left a great deal... incomplete. The Vessels are unfinished, like a book
+            one might one day return to. Operable, barely. The Sequence dictates I am to wait for
+            their Operator... Clearly, that cannot be you?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>Oh, it can be. Tenno, Master Entrati's Grimoire suggests you are the key. That
+            colorless antique there - use it.</speech>
+    </sp>
+    <info>Use Antique Device</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>This isn't right. The Transference stream... it's being diverted!</speech>
+    </sp>
+    <info>????</info>
+    <sp>
+        <speaker>Automated Announcer</speaker>
+        <speech>Please note: payment processing systems are down. All ticketing stations are cash
+            only.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech><infoMarked>breathing heavily</infoMarked>Arthur. Find a terminal. Check-in. I need
+            to know you made it.</speech>
+    </sp>
+    <info>Find a Terminal</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Aoi? Feels like there's... someone in my head...</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech><infoMarked>breathing heavily</infoMarked>Nearly done with this bitch of a year. I
+            wish we could just start over. Find that Dr. Entrati bastard on day one. Then I wouldn't
+            be alone on New Year's Eve.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>They've found me. Keep going, Arthur. Find Dr Entrati. Follow him into hell if you
+            have to! *uses Polarize*<infoMarked>Screaming</infoMarked></speech>
+    </sp>
+    <info>Survive</info>
+    <sp>
+        <speaker>TV Announcer</speaker>
+        <speech>It's comin' up to midnight, folks! Is YOUR PC ready for the new millennium? Orrrr...
+            are YOU one of the switched-on thinkers who can tell this so-called Y2K event is just a
+            bunch of bullpucky? Stay tuned. Here's where we find out!</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati?</speaker>
+        <speech>You. Are. Late.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>Voidtongue</infoMarked>
+        </speech>
+    </sp>
+    <info>Back to the Future</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>So... Albrecht made it to 1999 in one piece. But that thing is still on his heels.
+            Albrecht rarely smiled, after his return from the Void. And never like that... I smashed
+            the casket for NOTHING! IT FOLLOWED HIM ANYWAY!</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>YARA MIG! URU URU YARA MIG!</speech>
+    </sp>
+    <sp>
+        <speaker>Tagfer</speaker>
+        <speech>ZEK! ZEK! ABA? ZEK! ZEK! ABA?</speech>
+    </sp>
+    <sp>
+        <speaker>Bird 3</speaker>
+        <speech>MIG? MIG? RE-UN?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>SILENCE, CREATURES! It seems the Murmur overloaded your connection. Unfortunately
+            for Albrecht's cherished Pom-2. Not as 'future proof' as the label claimed,
+            alas.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The Murmur. They're attacking the sensory network I installed, our eyes and ears! To
+            arms, Tenno - play the warrior, and leave the tactics to me!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Construct - I'm awake. Your one responsibility is fulfilled. Be with the family.
+            They must be kept at the state of ignorance to which my Albrecht so wisely consigned
+            them.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid</speaker>
+        <speech>But I - Yes. I see. Until we meet again, Tenno.</speech>
+    </sp>
+    <info>Eyes and Ears</info>
+    <info>Locate the Auricle</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>I'd crawl away in shame too if I'd done what LOID did. Doesn't that Grimoire feel a
+            little - light?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The Murmur presumes to destroy our auditory and visual sensors. In all the time I
+            have been asleep, they have never ONCE been so bold!</speech>
+    </sp>
+    <sp>
+        <speaker>Tagfer</speaker>
+        <speech>IIRE! SHOGRUN UKUL!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Ignore the Cavia, Tenno. If Albrecht ever understood their babble, he never bothered
+            to share that knowledge with me.</speech>
+    </sp>
+    <info>Defend the Auricle</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Here they come. After all those years of creeping, silent encroachment... something
+            has changed them. Stirred them up.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The Necramechs could never be compelled to attack the Murmur. Albrecht suspected
+            they could no longer distinguish between the Indifference... and himself. A theory he
+            was reluctant to confirm.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>There is a defense system, of sorts. Gather enough of the floating Vosphene Glyphs,
+            and they should reinvigorate the organs you're here to protect. A fallback system, in
+            case... the promised Operator never showed.</speech>
+    </sp>
+    <info>Locate the Vitruem</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>They're shifting focus! Get to the Vitreum! Look at them. 'The Indifference.' He
+            could have given lessons in indifference.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>KOMEK! UTEH KOMEK!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Albrecht once thought the Cavia should have been destroyed. Failures, all. But he
+            briefly showed reluctance, and I saw no reason to punish them for his
+            negligence.</speech>
+    </sp>
+    <info>Defend the Vitruem</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>I saw off Granum's thugs. I beat back the Infested. And by the Void, I shall see the
+            end of these monstrosities.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Dust yourself down, Tenno. We are still alive. Rejoin me, and the Kalymos Sequence
+            may proceed.</speech>
+    </sp>
+    <info>The Keyglyph</info>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>YARA MIG! URU URU YARA MIG!</speech>
+    </sp>
+    <info>Examine the Fish</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>You're right, Fish. Loid could never figure things out. We have nothing to worry
+            about.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>If the Cavia have been babbling our secrets to the Murmur, I shall immolate the lot
+            of them, promise or no promise.</speech>
+    </sp>
+    <info>Speak with Loid</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>It seems Albrecht said more than we heard. Despite the signal becoming corrupted,
+            his words to you are preserved in the Transference buffer. We should extract them... but
+            for that the Pom-2 requires a replacement 'board', and those are all hidden away in the
+            Netracells. You do understand that accessing a Netracell without a Keyglyph is
+            completely impossible?</speech>
+    </sp>
+    <sp>
+        <speaker>Tagfer</speaker>
+        <speech>Mara lohk! Mara lohk!</speech>
+    </sp>
+    <info>Examine the Cervulite</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>A Keyglyph. So. The Cavia have provided the very item we require. Very well: proceed
+            to the Netracell at your own risk, Tenno. That babbling oddity may be sending you into a
+            trap, and if you do end up in one, I'm afraid you are on your own.</speech>
+    </sp>
+    <info>The Netracell</info>
+    <info>Access the Terminal</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Keyglyphs are a heavy burden for living beings to bear. Each type will impede you in
+            its own way.</speech>
+    </sp>
+    <info>Locate the Netracell</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>laughter</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech><infoMarked>laughs</infoMarked>Look at these things. Lying around. ABANDONED. Like
+            you, Loid.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>You are his demon! Not mine! I WON'T listen!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>My apologies, Tenno. I shall refrain from further outbursts.</speech>
+    </sp>
+    <info>Disable Security Matrix</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>There. A Netracell. Albrecht stored all manner of sentimental old junk in these.
+            Insert the Keyglyph.</speech>
+    </sp>
+    <info>Eliminate Enemies to Lower Security Level</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The Netracell's security apparatus is diligent. That door won't open while it can
+            sense The Murmur nearby. So. Eliminate them.</speech>
+    </sp>
+    <info>Find and Destroy the Necramite Drone to Continue</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Necramites! The lab's automated systems are trying to lock down the Netracell. Your
+            only option is to destroy them.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Cold stone. Sardonic aloofness. I was a fool not to see the resemblance
+            before.</speech>
+    </sp>
+    <info>Find the Pom-2 'Board'</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>You shoulda left well enough alone, kiddo! It'll NEVER get BETTER if you KEEP ON.
+            PICKING. AT. IT!</speech>
+    </sp>
+    <info>Return to the Sanctum Anatomica</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Excellent. Return to me with the board, Tenno.</speech>
+    </sp>
+    <info>POM-2 Repair</info>
+    <info>Return to Loid</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Thank you. A moment, please.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Would you do the honors?</speech>
+    </sp>
+    <info>Go to Albrecht’s Pom-2</info>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Arthur? Tenno? Forgive me. I need Loid to understand why I had to leave. Without
+            him. Why I forced him to destroy the device after I had gone. And why I could never say
+            the words he so needed to hear.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>If I had remained in the Deimos laboratory, Loid would never have been safe from ...
+            Him. You know of what I speak. And so I retreated to the only place in history where
+            that entity could not easily follow. To draw His greedy eye away from Loid.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Tenno - I. Require. Your. Trust. Craft the little curio whose blueprints you will
+            find in the computer's memory. Complete the Kalymos Sequence. Repair. Rebuild. When the
+            time is right, find me.</speech>
+    </sp>
+    <info>Take the Blueprint</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The skin of a martyr doesn't suit you, Albrecht. If something mattered... he'd have
+            found a way. It's too late. You heard him, Tenno! He requires your trust. So craft the
+            bloody thing.</speech>
+    </sp>
+    <info>Construct Albrecht's Blueprint</info>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>Tick tock, kiddo! You don't wanna be late again, do you?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>The Jahu Gargoyle. Bring it back here and we shall... examine what 'Form' will do to
+            help us.</speech>
+    </sp>
+    <info>A New Voice</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Albrecht may have told you to build that thing, but given how he used people and
+            threw them away, he may not have cared for your safety. If that gargoyle is a threat you
+            must take it from the Sanctum immediately. Now, activate it.</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>AT LAST. IF IGNORANCE IS BLISS, THEN YOU, TENNO, MUST BE ECSTATIC. COME ON THEN.
+            BRING IT CLOSER! WAKEY WAKEY!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Where did that come from? Identify yourself!</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>PLEASE, LOID, LET THEM FIGURE IT OUT.</speech>
+    </sp>
+    <info>Walking towards Fibonacci</info>
+    <sp>
+        <speaker>???</speaker>
+        <speech>THAT'S IT! ALMOST THERE.</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>YES! YES! VERY GOOD. KEEP GOING.</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>THAT'S THE RIGHT DIRECTION, OH-HO. WHO'S A GOOD BIPED?</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>THAT'S THE RIGHT DIRECTION. WHO'S A-A CLEVER LITTLE AIR-BREATHER? YOU ARE. YES, YOU
+            ARE.</speech>
+    </sp>
+    <info>Walking away from Fibonacci</info>
+    <sp>
+        <speaker>???</speaker>
+        <speech>NO. THIS WAY.</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>NO! ARGH! WE'RE GOING TO BE HERE ALL DAY, AREN'T WE?</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>OH IT NOW IT'S WANDERING OFF AGAIN. HELLOOO?! WRONG! WAY! UGH. BIPEDS.</speech>
+    </sp>
+    <info>Standing idle</info>
+    <sp>
+        <speaker>???</speaker>
+        <speech>OH! BY ALL MEANS, STAND AROUND CATCHING SNOWFLAKES ON YOUR TONGUE, IT'S NOT LIKE WE
+            HAVE AN UNFOLDING CRISIS OR ANYTHING!</speech>
+    </sp>
+    <sp>
+        <speaker>???</speaker>
+        <speech>HELLO?! WAKE UP, TENNO! YOU NEED TO FIND ME!</speech>
+    </sp>
+    <info>Speaking to Fibonacci</info>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Here! In the jar!</speech>
+        <speech>Wha? The fish with the big brain?</speech>
+        <speech>YES THE FISH WITH THE BIG BRAIN! Can we PLEASE, finally, get this INTERMINABLE
+            process over with?</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Albrecht used you to give the Cavia a voice, just as he used me to keep them alive.
+            Such a resourceful man.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>So here we are then: the best of what's left. Clearly Papa's plan was countered.
+            Color me surprised. Right, then. We may proceed with the Sequence.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>You animals have observed us all this time, have you not? You've given yourself a
+            ROLE in the Sequence?</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Indeed we have - come, Loid, it's named after Papa's favored pet! Spared the rod and
+            spoiled. We know the Fragmented Ones are heralds of the Indifference. We know the Chosen
+            Operator must summon and destroy them. And regrettably, you, Loid, have made this
+            impossible.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Choose your words carefully, fish.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Tenno: the Grimoire is incomplete, the final page hidden away. By Loid. Eh, be a
+            darling and retrieve it. That's all. Run along.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>So be it - the gift of decency was clearly not bestowed upon the Cavia, Tenno, but I
+            cannot deny the page's current status is lost.</speech>
+    </sp>
+    <info>Enter the Laboratories</info>
+    <sp>
+        <speaker>Bird 3</speaker>
+        <speech>Talk?</speech>
+        <infoMarked>gasps</infoMarked>
+        <speech>Talk! I can talk! Hey! Hey! Ooh! Ooh! Mister Loid! Mister Loid! Where is Papa? Why
+            did Papa leave us? Mister Loid?</speech>
+    </sp>
+    <sp>
+        <speaker>Tagfer</speaker>
+        <speech>Papa is gone. We could all be gone too. In an instant. Like... like... We have to
+            keep quiet.</speech>
+    </sp>
+    <sp>
+        <speaker>Bird 3</speaker>
+        <speech>Okay!</speech>
+    </sp>
+    <info>Lost and Found</info>
+    <info>Eliminate All Targets</info>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Allow me to boil this down for you: should the Indifference's corrupting touch reach
+            us and take back our speech? We would be screwed! So: be a love and eradicate the Murmur
+            in this patch before the big bad gets word that Loid's awake and the fish is
+            talking.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Tenno... there is some truth to what the... fish... says. That page was the last
+            thing my Albrecht ever wrote. Meant for me. Since I had no interest in reading his
+            endless self-justifications, I hid it away instead. But with all this chaos, it's
+            undetectable.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>So long as the Indifference is missing a digit, it is confined to the strands of
+            Khra. Don't ask, your tiny mind would likely pop under the strain of understanding. This
+            limitation is our one hope</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Do not patronize the Tenno, fish. The strands of Khra are merely Void-renderings of
+            the chains of cause and effect. Conceptually embodied timelines, if you will.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Papa's daughter excelled at explaining complicated concepts in childish terms. I see
+            now where she learned it.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Arousing as I'm sure this is for you, the rest of us are moments away from an
+            extinction Grim! Black! And FINAL! *sigh* So. If you would be so kind. Finish up. So I
+            can point you. Toward. That. Sodding. PAGE!</speech>
+    </sp>
+    <info>Find the Grimoire’s Missing Page</info>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Bravo. It was a long walk toward competence, but here you are. Now, please, the
+            page.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>How about you give me the page instead, Kiddo? Consider it part of our
+            deal.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>There. It's done. Keep it to yourself, Tenno. I'm damned if I'm giving Albrecht the
+            last word.</speech>
+    </sp>
+    <info>Get to Extraction Point</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Tenno...</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>A fell hand raps, uh, upon the Untime Door, and sans Grimoire we are undone! We've
+            been rumbled.</speech>
+    </sp>
+    <info>Sanctum Under Siege</info>
+    <info>Return to Sanctum Anatomica</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Tenno? Are you there?! Thank Void! Listen. The Murmur diverted your Extraction-jump.
+            We need you back at the Sanctum, now! Hurry!</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>It takes and it takes! It took my future, it's taking the Labs inch by inch... well,
+            I won't let it take his BLOODY Cavia!</speech>
+    </sp>
+    <info>Defeat the Fragmented Tide</info>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>The sodding Indifference seeks a path through the walls, and then, Tenno, through
+            you! Keep it at bay!</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>VOULL NE XATA VOK, MARA LOHK?</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Rrrr. *groan* The strand holds. The Indifference approaches! Soon... it will take on
+            mass.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Get out! There is nothing for you here! Get out! OUT!!</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>Tenno, the Grimoire must speak with its own voice!</speech>
+    </sp>
+    <info>Connect the Grimoire to the Gargoyle</info>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Loid... You gave me back my sight, but I would not spare you a glance. You gave me
+            back my voice, but I never spoke to praise you as I should have. For you were my right
+            hand. My strength, my support, my sanctuary. Even when the galleries hurled scorn upon
+            me, your sole desire was to suffer it in my stead.</speech>
+    </sp>
+    <info>Defeat the Fragmented One</info>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>On your first day of service, you aspired to be worthy of me. I only wish that I
+            could have been worthy of you, my Loid.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>This stillness... Tenno... No. Operator.</speech>
+    </sp>
+    <sp>
+        <speaker>Fibonacci</speaker>
+        <speech>The strand of Khra has been cut while the Indifference remains undeterred. I foresee
+            a grim and continuing struggle to safeguard Papa's laboratory from its fell and ruinous
+            grasp.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>Indeed. I shall not waver.</speech>
+    </sp>
+    <info>Speak with Loid</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>'Protect the Vessels. Repair. Rebuild.' So runs the Kalymos Sequence, and such is
+            our task. In the version of the past we saw, My Albrecht said we were too late. The
+            solution, naturally, is to arrive on time, next time. You keep the Murmur at bay, I
+            shall fulfill my role: Punctuality. The Entrati family never could arrive on time
+            without my help. And so... here I am, back to my old role. The diligent servant.
+            Albrecht would have smiled at that, I think.</speech>
+    </sp>
+    <info>What did he say to you, right before he left?</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>He said...</speech>
+    </sp>
+    <info>...that it was always watching.</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>...do not let it see you weeping, Loid.</speech>
+    </sp>
+    <info>...that this was no way to remember me.</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>...my last sight of your face must not be marred by tears.</speech>
+    </sp>
+    <info>...that he wasn't worthy.</info>
+    <sp>
+        <speaker>Loid <infoMarked>Original</infoMarked></speaker>
+        <speech>...how do I still deserve your tears after all I have done?</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>We had a deal. The deal was shook. A little handshake, all it took! Though from the
+            deal the wee child ran...</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati?</speaker>
+        <speech>Yet still... WE END AS WE BEGAN.</speech>
+    </sp>
+    <info>Conclusion</info>
+    <message>“<messageBody>An Appropriate Technique?<mlb/>Chosen Operator. A friendly suggestion:
+            you could do so much more with those Melee weapons of yours. I donate my wisdom on both
+            tool and technique. Listen well.<mlb/>TENNOKAI, a fighting technique fusing Void and
+            Beastial instinct. Raw power. While I have never used Tennokai, I understand it
+            perfectly. Somewhat of a mind mastery. Enough so that lost materials pertaining to
+            Tennokai have been stored just out of my reach in the Sanctum.<mlb/>Tools. Papa was not
+            one to rest, use this segment to unlock more potential for your Arsenal. The Arcane was
+            an art and science that Papa studied well - the convexity of my bowl and a magnifying
+            glass on his research, and now your gain.<mlb/>Install this segment, acquire Melee
+            Arcanes, find Tennokai Modules, and observe the results: the swift deletion of your
+            foes.</messageBody>”</message>
+    <message>“<messageBody>For the Tenno<mlb/>Tenno, the Warframe Qorvex was designed by my
+            Albrecht's own hand, to protect the chosen Operator from the hazards of his laboratory.
+            This design is yours by right.<mlb/>I intend to keep the promise I made to him. When the
+            time is right and the equipment repaired, I will assist you to travel back to the past,
+            the pivotal year of 1999.<mlb/>Perhaps, between us, we may change
+            history.<mlb/>Loid</messageBody>”</message>
+</xml>

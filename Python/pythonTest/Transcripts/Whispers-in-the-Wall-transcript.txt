@@ -1,0 +1,411 @@
+The Man in the Wall: "(Voidtongue)"
+Inbox Message
+“URGENT
+
+Tenno,
+
+Please meet me at the Necralisk as soon as you are able. This cannot wait.
+
+Discretion is paramount. Tell nobody.
+
+Loid”
+
+The Kalymos Sequence
+Follow Loid
+Loid: "Ah! My lonely vigil is over. Follow me, Tenno, and on no account wake the family! Despite their conflicts they sleep in peace, but a solitary dream plagues me."
+ ()
+Loid: "You must understand: constructs CANNOT dream. And yet, I have."
+ ()
+Loid: "In my dream, one single name repeats. KALYMOS"
+ ()
+Loid: "(GASP)"
+ ()
+Loid: "The memories surface, long locked away. This was no dream, Tenno. It was a precept. The Kalymos Sequence."
+ ()
+Loid: "I must fulfill this dormant precept. The Kalymos Sequence has begun, and it cannot be undone."
+ ()
+Explore
+Loid: "I have one responsibility in the Kalymos Sequence: Awaken the Sleeper. But I cannot do it alone. Please, assist me once more?"
+ ()
+Loid: "I fear we are off the edge of the map, and into the domain of monsters. Master Entrati never completed his final project: the VESSELS. The Sequence dictates they cannot awaken before the Sleeper does."
+ ()
+Automated Announcer: ""
+ ()
+Loid: "Do you hear that? Let us hope The Sleeper is untroubled by such... strangeness. Find them."
+ ()
+The Murmur
+Find the Sleeper
+Loid: "Necramechs. Poor, abandoned things. Still faithfully following Master Entrati's last command, to defend. Show mercy, Tenno. End them."
+ ()
+The Man in the Wall: "(Voidtongue)"
+Loid: "Master Entrati called it the Voidtongue. He feared it was meaningless... and feared more that it was not."
+ ()
+Take Albrecht Entrati's Grimoire
+Loid: "There! That book was like a diary to Master Entrati, his grimoire! No doubt it holds the secrets of the Vessels, and of the Kalymos Sequence! Take it, Tenno!"
+ ()
+Eliminate the Necramechs
+Loid: "The grimoire is very... active. It is... reading ... you!"
+ ()
+Loid: "I confess it galls me slightly to see a compendium of knowledge used as a weapon, but needs must. We need be in no doubt of your skill, at any rate."
+ ()
+Find the Sleeper
+The Man in the Wall: "(Voidtongue)"
+ ()
+Loid: "A monstrous danger, these labs. Better off sealed. We can only hope The Sleeper has been untouched by this vast horror. This great Indifference."
+ ()
+Defeat The Fragmented Tide
+Loid: "I ask too much of you, Tenno. These horrors must be stopped!"
+ ()
+Loid: "If these fragments were to unite... Destroy them swiftly, Tenno!"
+ ()
+Loid: "Right. Onward."
+ ()
+Find the Sleeper
+Automated Announcer: "(Subway chimes) The next train is arriving. Doors are on the right."
+ ()
+Loid: "A trap? Master Entrati jealously protected his most adored possessions - be they objects... or people. Come. The Sleeper awaits."
+ ()
+Open the Sleeper's Cryopod
+???: "The Kalymos Sequence has begun? Did he send you? Is he... No. No, of course he didn't. That would be impossible."
+ ()
+Loid: "This is, well, Loid. The original. All emotional centers very much intact. Did you have a good sleep?"
+ ()
+Loid (Original): "Ah. The 'helpful' Necraloid my Albrecht had made, so that I might have assistance... and company. Perhaps that made it... easier for him to leave."
+ ()
+Loid (Original): "Resume your duties, construct."
+ ()
+Loid: ""Resume your duties, construct.""
+ ()
+Loid (Original): "Please, follow me, uh..."
+ ()
+Loid: "This is a Tenno. An orphan of the Void, continuing the struggle our Master abandoned."
+ ()
+Follow Loid
+Loid (Original): "A Tenno? A deserter, presumably? Is it not aware there's a war going on? *sigh* So. The war, too, is just a memory now."
+ ()
+Into the Void
+Examine the Cavia
+Loid: "Tenno, while Loid completes his inspections, you'd better meet the Cavia... a reminder of darker times. Though Master Entrati always hoped the awaited Operator would be able to understand them?"
+ ()
+Fibonacci: "Yara mig!"
+ ()
+Tagfer: "(moan)"
+ ()
+Bird 3: "Zek? Aba! Zek? Zek?"
+ ()
+Loid: "Ugh, an... incomplete experiment, one might say."
+ ()
+Speak with Loid
+Loid (Original): "Albrecht left a great deal... incomplete. The Vessels are unfinished, like a book one might one day return to. Operable, barely. The Sequence dictates I am to wait for their Operator... Clearly, that cannot be you?"
+ ()
+Loid: "Oh, it can be. Tenno, Master Entrati's Grimoire suggests you are the key. That colorless antique there - use it."
+ ()
+Use Antique Device
+Loid (Original): "This isn't right. The Transference stream... it's being diverted!"
+ ()
+????
+Automated Announcer: "Please note: payment processing systems are down. All ticketing stations are cash only."
+ ()
+Aoi: "(breathing heavily) Arthur. Find a terminal. Check-in. I need to know you made it."
+ ()
+Find a Terminal
+Arthur: "Aoi? Feels like there's... someone in my head..."
+ ()
+Aoi: "(breathing heavily) Nearly done with this bitch of a year. I wish we could just start over. Find that Dr. Entrati bastard on day one. Then I wouldn't be alone on New Year's Eve."
+ ()
+Aoi: "They've found me. Keep going, Arthur. Find Dr Entrati. Follow him into hell if you have to! *uses Polarize* (Screaming)"
+ ()
+Survive
+TV Announcer: "It's comin' up to midnight, folks! Is YOUR PC ready for the new millennium? Orrrr... are YOU one of the switched-on thinkers who can tell this so-called Y2K event is just a bunch of bullpucky? Stay tuned. Here's where we find out!"
+ ()
+Albrecht Entrati?: "You. Are. Late."
+ ()
+The Man in the Wall: "(Voidtongue)"
+Back to the Future
+Loid (Original): "So... Albrecht made it to 1999 in one piece. But that thing is still on his heels. Albrecht rarely smiled, after his return from the Void. And never like that... I smashed the casket for NOTHING! IT FOLLOWED HIM ANYWAY!"
+ ()
+Fibonacci: "YARA MIG! URU URU YARA MIG!"
+ ()
+Tagfer: "ZEK! ZEK! ABA? ZEK! ZEK! ABA?"
+ ()
+Bird 3: "MIG? MIG? RE-UN?"
+ ()
+Loid (Original): "SILENCE, CREATURES! It seems the Murmur overloaded your connection. Unfortunately for Albrecht's cherished Pom-2. Not as 'future proof' as the label claimed, alas."
+ ()
+Loid (Original): "The Murmur. They're attacking the sensory network I installed, our eyes and ears! To arms, Tenno - play the warrior, and leave the tactics to me!"
+ ()
+Loid (Original): "Construct - I'm awake. Your one responsibility is fulfilled. Be with the family. They must be kept at the state of ignorance to which my Albrecht so wisely consigned them."
+ ()
+Loid: "But I - Yes. I see. Until we meet again, Tenno."
+ ()
+Eyes and Ears
+Locate the Auricle
+The Man in the Wall: "I'd crawl away in shame too if I'd done what LOID did. Doesn't that Grimoire feel a little - light?"
+ ()
+ ()
+ ()
+ ()
+Loid (Original): "The Murmur presumes to destroy our auditory and visual sensors. In all the time I have been asleep, they have never ONCE been so bold!"
+ ()
+Tagfer: "IIRE! SHOGRUN UKUL!"
+ ()
+Loid (Original): "Ignore the Cavia, Tenno. If Albrecht ever understood their babble, he never bothered to share that knowledge with me."
+ ()
+Defend the Auricle
+Loid (Original): "Here they come. After all those years of creeping, silent encroachment... something has changed them. Stirred them up."
+ ()
+Loid (Original): "The Necramechs could never be compelled to attack the Murmur. Albrecht suspected they could no longer distinguish between the Indifference... and himself. A theory he was reluctant to confirm."
+ ()
+Loid (Original): "There is a defense system, of sorts. Gather enough of the floating Vosphene Glyphs, and they should reinvigorate the organs you're here to protect. A fallback system, in case... the promised Operator never showed."
+ ()
+Locate the Vitruem
+Loid (Original): "They're shifting focus! Get to the Vitreum! Look at them. 'The Indifference.' He could have given lessons in indifference."
+ ()
+Fibonacci: "KOMEK! UTEH KOMEK!"
+ ()
+Loid (Original): "Albrecht once thought the Cavia should have been destroyed. Failures, all. But he briefly showed reluctance, and I saw no reason to punish them for his negligence."
+ ()
+Defend the Vitruem
+Loid (Original): "I saw off Granum's thugs. I beat back the Infested. And by the Void, I shall see the end of these monstrosities."
+ ()
+Loid (Original): "Dust yourself down, Tenno. We are still alive. Rejoin me, and the Kalymos Sequence may proceed."
+ ()
+The Keyglyph
+Fibonacci: "YARA MIG! URU URU YARA MIG!"
+ ()
+Examine the Fish
+The Man in the Wall: "You're right, Fish. Loid could never figure things out. We have nothing to worry about."
+ ()
+ ()
+ ()
+ ()
+Loid (Original): "If the Cavia have been babbling our secrets to the Murmur, I shall immolate the lot of them, promise or no promise."
+ ()
+Speak with Loid
+Loid (Original): "It seems Albrecht said more than we heard. Despite the signal becoming corrupted, his words to you are preserved in the Transference buffer. We should extract them... but for that the Pom-2 requires a replacement 'board', and those are all hidden away in the Netracells. You do understand that accessing a Netracell without a Keyglyph is completely impossible?"
+ ()
+Tagfer: "Mara lohk! Mara lohk!"
+ ()
+Examine the Cervulite
+Loid (Original): "A Keyglyph. So. The Cavia have provided the very item we require. Very well: proceed to the Netracell at your own risk, Tenno. That babbling oddity may be sending you into a trap, and if you do end up in one, I'm afraid you are on your own."
+ ()
+The Netracell
+Access the Terminal
+Loid (Original): "Keyglyphs are a heavy burden for living beings to bear. Each type will impede you in its own way."
+ ()
+Locate the Netracell
+The Man in the Wall: "(laughter)"
+ ()
+ ()
+ ()
+ ()
+The Man in the Wall: "(laughs) Look at these things. Lying around. ABANDONED. Like you, Loid."
+ ()
+ ()
+ ()
+ ()
+Loid (Original): "You are his demon! Not mine! I WON'T listen!"
+ ()
+Loid (Original): "My apologies, Tenno. I shall refrain from further outbursts."
+ ()
+Disable Security Matrix
+Loid (Original): "There. A Netracell. Albrecht stored all manner of sentimental old junk in these. Insert the Keyglyph."
+ ()
+Eliminate Enemies to Lower Security Level
+Loid (Original): "The Netracell's security apparatus is diligent. That door won't open while it can sense The Murmur nearby. So. Eliminate them."
+ ()
+Find and Destroy the Necramite Drone to Continue
+Loid (Original): "Necramites! The lab's automated systems are trying to lock down the Netracell. Your only option is to destroy them."
+ ()
+Loid (Original): "Cold stone. Sardonic aloofness. I was a fool not to see the resemblance before."
+ ()
+Find the Pom-2 'Board'
+The Man in the Wall: "You shoulda left well enough alone, kiddo! It'll NEVER get BETTER if you KEEP ON. PICKING. AT. IT!"
+ ()
+ ()
+ ()
+ ()
+Return to the Sanctum Anatomica
+Loid (Original): "Excellent. Return to me with the board, Tenno."
+ ()
+POM-2 Repair
+Return to Loid
+Loid (Original): "Thank you. A moment, please."
+ ()
+Loid (Original): "Would you do the honors?"
+ ()
+Go to Albrecht’s Pom-2
+Albrecht Entrati: "Arthur? Tenno? Forgive me. I need Loid to understand why I had to leave. Without him. Why I forced him to destroy the device after I had gone. And why I could never say the words he so needed to hear."
+ ()
+Albrecht Entrati: "If I had remained in the Deimos laboratory, Loid would never have been safe from ... Him. You know of what I speak. And so I retreated to the only place in history where that entity could not easily follow. To draw His greedy eye away from Loid."
+ ()
+Albrecht Entrati: "Tenno - I. Require. Your. Trust. Craft the little curio whose blueprints you will find in the computer's memory. Complete the Kalymos Sequence. Repair. Rebuild. When the time is right, find me."
+ ()
+Take the Blueprint
+Loid (Original): "The skin of a martyr doesn't suit you, Albrecht. If something mattered... he'd have found a way. It's too late. You heard him, Tenno! He requires your trust. So craft the bloody thing."
+ ()
+Construct Albrecht's Blueprint
+The Man in the Wall: "Tick tock, kiddo! You don't wanna be late again, do you?"
+ ()
+ ()
+ ()
+ ()
+Loid (Original): "The Jahu Gargoyle. Bring it back here and we shall... examine what 'Form' will do to help us."
+ ()
+A New Voice
+Loid (Original): "Albrecht may have told you to build that thing, but given how he used people and threw them away, he may not have cared for your safety. If that gargoyle is a threat you must take it from the Sanctum immediately. Now, activate it."
+ ()
+???: "AT LAST. IF IGNORANCE IS BLISS, THEN YOU, TENNO, MUST BE ECSTATIC. COME ON THEN. BRING IT CLOSER! WAKEY WAKEY!"
+ ()
+Loid (Original): "Where did that come from? Identify yourself!"
+ ()
+???: "PLEASE, LOID, LET THEM FIGURE IT OUT."
+ ()
+Walking towards Fibonacci
+???: "THAT'S IT! ALMOST THERE."
+ ()
+???: "YES! YES! VERY GOOD. KEEP GOING."
+ ()
+???: "THAT'S THE RIGHT DIRECTION, OH-HO. WHO'S A GOOD BIPED?"
+ ()
+???: "THAT'S THE RIGHT DIRECTION. WHO'S A-A CLEVER LITTLE AIR-BREATHER? YOU ARE. YES, YOU ARE."
+ ()
+Walking away from Fibonacci
+???: "NO. THIS WAY."
+ ()
+???: "NO! ARGH! WE'RE GOING TO BE HERE ALL DAY, AREN'T WE?"
+ ()
+???: "OH IT NOW IT'S WANDERING OFF AGAIN. HELLOOO?! WRONG! WAY! UGH. BIPEDS."
+ ()
+Standing idle
+???: "OH! BY ALL MEANS, STAND AROUND CATCHING SNOWFLAKES ON YOUR TONGUE, IT'S NOT LIKE WE HAVE AN UNFOLDING CRISIS OR ANYTHING!"
+ ()
+???: "HELLO?! WAKE UP, TENNO! YOU NEED TO FIND ME!"
+ ()
+Speaking to Fibonacci
+Fibonacci: "Here! In the jar!" "Wha? The fish with the big brain?" "YES THE FISH WITH THE BIG BRAIN! Can we PLEASE, finally, get this INTERMINABLE process over with?"
+ ()
+Loid (Original): "Albrecht used you to give the Cavia a voice, just as he used me to keep them alive. Such a resourceful man."
+ ()
+Fibonacci: "So here we are then: the best of what's left. Clearly Papa's plan was countered. Color me surprised. Right, then. We may proceed with the Sequence."
+ ()
+Loid (Original): "You animals have observed us all this time, have you not? You've given yourself a ROLE in the Sequence?"
+ ()
+Fibonacci: "Indeed we have - come, Loid, it's named after Papa's favored pet! Spared the rod and spoiled. We know the Fragmented Ones are heralds of the Indifference. We know the Chosen Operator must summon and destroy them. And regrettably, you, Loid, have made this impossible."
+ ()
+Loid (Original): "Choose your words carefully, fish."
+ ()
+Fibonacci: "Tenno: the Grimoire is incomplete, the final page hidden away. By Loid. Eh, be a darling and retrieve it. That's all. Run along."
+ ()
+Loid (Original): "So be it - the gift of decency was clearly not bestowed upon the Cavia, Tenno, but I cannot deny the page's current status is lost."
+ ()
+Enter the Laboratories
+Bird 3: "Talk?" (gasps) "Talk! I can talk! Hey! Hey! Ooh! Ooh! Mister Loid! Mister Loid! Where is Papa? Why did Papa leave us? Mister Loid?"
+ ()
+Tagfer: "Papa is gone. We could all be gone too. In an instant. Like... like... We have to keep quiet."
+ ()
+Bird 3: "Okay!"
+ ()
+Lost and Found
+Eliminate All Targets
+Fibonacci: "Allow me to boil this down for you: should the Indifference's corrupting touch reach us and take back our speech? We would be screwed! So: be a love and eradicate the Murmur in this patch before the big bad gets word that Loid's awake and the fish is talking."
+ ()
+Loid (Original): "Tenno... there is some truth to what the... fish... says. That page was the last thing my Albrecht ever wrote. Meant for me. Since I had no interest in reading his endless self-justifications, I hid it away instead. But with all this chaos, it's undetectable."
+ ()
+Fibonacci: "So long as the Indifference is missing a digit, it is confined to the strands of Khra. Don't ask, your tiny mind would likely pop under the strain of understanding. This limitation is our one hope"
+ ()
+Loid (Original): "Do not patronize the Tenno, fish. The strands of Khra are merely Void-renderings of the chains of cause and effect. Conceptually embodied timelines, if you will."
+ ()
+Fibonacci: "Papa's daughter excelled at explaining complicated concepts in childish terms. I see now where she learned it."
+ ()
+Fibonacci: "Arousing as I'm sure this is for you, the rest of us are moments away from an extinction Grim! Black! And FINAL! *sigh* So. If you would be so kind. Finish up. So I can point you. Toward. That. Sodding. PAGE!"
+ ()
+Find the Grimoire’s Missing Page
+Fibonacci: "Bravo. It was a long walk toward competence, but here you are. Now, please, the page."
+ ()
+The Man in the Wall: "How about you give me the page instead, Kiddo? Consider it part of our deal."
+ ()
+ ()
+ ()
+ ()
+Loid (Original): "There. It's done. Keep it to yourself, Tenno. I'm damned if I'm giving Albrecht the last word."
+ ()
+Get to Extraction Point
+Loid (Original): "Tenno..."
+ ()
+Fibonacci: "A fell hand raps, uh, upon the Untime Door, and sans Grimoire we are undone! We've been rumbled."
+ ()
+Sanctum Under Siege
+Return to Sanctum Anatomica
+Loid (Original): "Tenno? Are you there?! Thank Void! Listen. The Murmur diverted your Extraction-jump. We need you back at the Sanctum, now! Hurry!"
+ ()
+Loid (Original): "It takes and it takes! It took my future, it's taking the Labs inch by inch... well, I won't let it take his BLOODY Cavia!"
+ ()
+Defeat the Fragmented Tide
+Fibonacci: "The sodding Indifference seeks a path through the walls, and then, Tenno, through you! Keep it at bay!"
+ ()
+The Man in the Wall: "VOULL NE XATA VOK, MARA LOHK?"
+ ()
+Fibonacci: "Rrrr. *groan* The strand holds. The Indifference approaches! Soon... it will take on mass."
+ ()
+Loid (Original): "Get out! There is nothing for you here! Get out! OUT!!"
+ ()
+Fibonacci: "Tenno, the Grimoire must speak with its own voice!"
+ ()
+Connect the Grimoire to the Gargoyle
+Albrecht Entrati: "Loid... You gave me back my sight, but I would not spare you a glance. You gave me back my voice, but I never spoke to praise you as I should have. For you were my right hand. My strength, my support, my sanctuary. Even when the galleries hurled scorn upon me, your sole desire was to suffer it in my stead."
+ ()
+Defeat the Fragmented One
+Albrecht Entrati: "On your first day of service, you aspired to be worthy of me. I only wish that I could have been worthy of you, my Loid."
+ ()
+Loid (Original): "This stillness... Tenno... No. Operator."
+ ()
+Fibonacci: "The strand of Khra has been cut while the Indifference remains undeterred. I foresee a grim and continuing struggle to safeguard Papa's laboratory from its fell and ruinous grasp."
+ ()
+Loid (Original): "Indeed. I shall not waver."
+ ()
+Speak with Loid
+Loid (Original): "'Protect the Vessels. Repair. Rebuild.' So runs the Kalymos Sequence, and such is our task. In the version of the past we saw, My Albrecht said we were too late. The solution, naturally, is to arrive on time, next time. You keep the Murmur at bay, I shall fulfill my role: Punctuality. The Entrati family never could arrive on time without my help. And so... here I am, back to my old role. The diligent servant. Albrecht would have smiled at that, I think."
+ ()
+What did he say to you, right before he left?
+Loid (Original): "He said..."
+ ()
+...that it was always watching.
+Loid (Original): "...do not let it see you weeping, Loid."
+ ()
+...that this was no way to remember me.
+Loid (Original): "...my last sight of your face must not be marred by tears."
+ ()
+...that he wasn't worthy.
+Loid (Original): "...how do I still deserve your tears after all I have done?"
+ ()
+The Man in the Wall: "We had a deal. The deal was shook. A little handshake, all it took! Though from the deal the wee child ran..."
+ ()
+ ()
+ ()
+ ()
+Albrecht Entrati?: "Yet still... WE END AS WE BEGAN."
+ ()
+Conclusion
+“An Appropriate Technique?
+
+Chosen Operator. A friendly suggestion: you could do so much more with those Melee weapons of yours. I donate my wisdom on both tool and technique. Listen well.
+
+TENNOKAI, a fighting technique fusing Void and Beastial instinct. Raw power. While I have never used Tennokai, I understand it perfectly. Somewhat of a mind mastery. Enough so that lost materials pertaining to Tennokai have been stored just out of my reach in the Sanctum.
+
+Tools. Papa was not one to rest, use this segment to unlock more potential for your Arsenal. The Arcane was an art and science that Papa studied well - the convexity of my bowl and a magnifying glass on his research, and now your gain.
+
+Install this segment, acquire Melee Arcanes, find Tennokai Modules, and observe the results: the swift deletion of your foes.”
+
+ ()
+“For the Tenno
+
+Tenno, the Warframe Qorvex was designed by my Albrecht's own hand, to protect the chosen Operator from the hazards of his laboratory. This design is yours by right.
+
+I intend to keep the promise I made to him. When the time is right and the equipment repaired, I will assist you to travel back to the past, the pivotal year of 1999.
+
+Perhaps, between us, we may change history.
+
+Loid”
+
+ ()

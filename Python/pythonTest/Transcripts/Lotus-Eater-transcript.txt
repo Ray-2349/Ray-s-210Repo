@@ -1,0 +1,103 @@
+Natah/Lotus/Margulis: "Hm? Oh. It's you."
+ ()
+Operator:
+Are you okay?
+"This isn't just a bad memory, is it? This is new."
+ ()
+ ()
+ ()
+ ()
+... What is that noise?
+"I've seen that device before. Some kind of... communicator?"
+ ()
+ ()
+ ()
+ ()
+Don't listen to it!
+"It's him. I knew he'd come after you next!"
+ ()
+ ()
+ ()
+ ()
+Drifter:
+Careful there.
+"Easy. You're scaring the kid."
+ ()
+ ()
+ ()
+ ()
+I'm here to help.
+"Whatever this is, I'm not leaving you alone with it."
+ ()
+ ()
+ ()
+ ()
+What do you mean, 'its you'?
+"D'you mind explaining exactly what you mean by that?"
+ ()
+ ()
+ ()
+ ()
+Natah/Lotus/Margulis: "You, my child. The Great Indifference wants to take. I want to let it. I feel... only the call."
+ ()
+Natah/Lotus/Margulis: "You, my champion. Please. Drown out that noise that beckons. If any other answers the call... no. It has to be you. Our paradox."
+ ()
+Natah/Lotus/Margulis: "Do you hear it? The calls of angels, devils, life itself? It's grown so loud. It tries to follow in his footsteps through time. You must find him first."
+ ()
+Conclusion
+“The link to the past is forged, but time is running out. While Loid works tirelessly and the Lotus keeps her lonely vigil, step by step the Indifference draws closer to its coveted prey.”
+
+“The Visitor
+
+Tenno,
+
+None of us could hear the Device that was calling from the abyss of history. The Daughter of Hunhow heard it, and almost succumbed to its call. She raised her voice in song to drown it out, and that we did hear.
+
+I should have known she was waiting for you.
+
+You answered a call and in a way, found an answer. For me. The time is almost right to finish the Kalymos Sequence.
+
+I will soon be able to send you to the city-state of Höllvania, in the plague year of 1999 - a most perilous time. Without your equipment, you would surely perish.
+
+Luckily, the Vessels have a connection to Albrecht's "volunteers" that I believe I can exploit. You will not arrive unarmed, nor unarmored.
+
+We won't be late!
+
+Loid
+
+ ()
+”
+
+In Sanctum Anatomica
+Natah/Lotus/Margulis
+Natah/Lotus/Margulis: "I was the Daughter. I became the Mother. In time I shall be the Witch, blind once again, empty of all but wisdom."
+ ()
+Natah/Lotus/Margulis: "It is hungry, Tenno. And I... am a distraction."
+ ()
+Natah/Lotus/Margulis: "Lotus. Margulis. Natah. We live... we rise... we endure."
+ ()
+Natah/Lotus/Margulis: "I will guide you, as I always have."
+ ()
+Natah/Lotus/Margulis: "Within this shell, the three of us entwine. We forge a new strength."
+ ()
+Natah/Lotus/Margulis: "The system is changing. We are changing. If I become something you do not recognize, do not mourn."
+ ()
+Natah/Lotus/Margulis: "You know what It gave. But what did you promise it in return?"
+ ()
+Natah/Lotus/Margulis: "I will not let It devour one instant of my pain. Not even Ballas. Not even the Jade Light."
+ ()
+Natah/Lotus/Margulis: "Lua. The miracle. Do you understand what it cost?"
+ ()
+Natah/Lotus/Margulis: "I kept vigil while you slept through the dark centuries. I can do it again."
+ ()
+Loid (Original)
+Loid (Original): "I cannot envision the burden she has taken upon herself... nor what it is costing her."
+ ()
+Loid (Original): "The Daughter of Hunhow seems content to guide your missions from here."
+ ()
+Loid (Original): "The Cavia are wary of our visitor. I have reassured them she is to be trusted. Not that they have to listen to anything I have to say, mind."
+ ()
+Loid (Original): "Our 'guest' is still with us. I would make her more comfortable if I had the slightest idea how."
+ ()
+Loid (Original): "She remains as she was, Tenno. Attentive. Watching."
+ ()

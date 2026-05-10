@@ -1,0 +1,1065 @@
+Worm Queen: "I'm afraid, sister. Your Continuity grows near."
+ ()
+Elder Queen: "Hush, worm. Let the beasts do their work."
+ ()
+ ()
+Worm Queen: "But the dreamers have awakened. They will come for us."
+ ()
+Elder Queen: "Yes, they will... like the answer to a prayer."
+ ()
+Investigate the Reservoir on Lua: Zeipel, Lua
+Lotus: "Tenno? Are you alright? Your Somatics output seems high."
+ ()
+Operator: "I... just... nodded off. It's nothing."
+ ()
+ ()
+ ()
+ ()
+Lotus: "Good. Deploy a Warframe to Lua. My sentries have gone silent. We may have an intrusion."
+ ()
+Operator: "On it."
+ ()
+ ()
+ ()
+ ()
+(On mission entry)
+
+Lotus: "It was here Margulis put you into the dream, tried to heal you... tried to give you the strength to tame the Void within you. In a way, this is where you, where all Tenno, were born."
+ ()
+Operator: "But we weren't born here, were we?"
+ ()
+ ()
+ ()
+ ()
+Lotus: "No. When the Zariman was found adrift, the Orokin did everything they could to erase their mistakes. Transit recordings, personnel logs... everything was wiped out. The only thing they kept was... you."
+ ()
+Lotus: "I'm detecting an unknown signature further ahead. Find out who it is and what they're doing."
+ ()
+(Upon spotting Teshin)
+
+Operator: "I just saw the intruder... moving fast. I think it's Teshin."
+ ()
+ ()
+ ()
+ ()
+Lotus: "Teshin? What is he doing here? It looks like he's heading to a Reservoir. Follow him."
+ ()
+Teshin: "Leave now. This doesn't concern you, child."
+ ()
+Operator: "Don't call me that. What are you doing here?"
+ ()
+ ()
+ ()
+ ()
+Cinematic at the Reservoir
+Elder Queen: "Bring them to me."
+ ()
+Operator: "What was that?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "The Queens."
+ ()
+Operator: "Queens?! The Grineer Queens? Tell me what--"
+ ()
+ ()
+ ()
+ ()
+Teshin: "I am warning you. You think you're safe behind this metal, but you're not. Not in the ways that matter here. Behind this, you're still just a child --"
+ ()
+Operator: "Stop saying that."
+ ()
+ ()
+ ()
+ ()
+Teshin: "Follow me again, Tenno, and you will answer to my sword."
+ ()
+Lotus: "I thought the Queens were just an invention of Grineer command. No one has ever seen them in the flesh."
+ ()
+Operator: "I have a feeling Teshin has. Can you track him?"
+ ()
+ ()
+ ()
+ ()
+Lotus: "Not with Specters masking him. But Tenno, we don't know anything about the Queens. Maybe Teshin alone should--"
+ ()
+Operator: "No. Teshin's not going to tell me what I can and cannot do. I'll take out his Specters so you can track him."
+ ()
+ ()
+ ()
+ ()
+(On capturing the specter)
+
+Lotus: "I have a lock on his route. Exfiltrate when you're ready."
+ ()
+Track Teshin: Carpo, Jupiter
+Lotus: "Teshin is trying to mask his location from us, but I have pinpointed a suspicious signal for you to investigate. Find him, we need answers."
+ ()
+(On mission entry)
+
+Lotus: "All my scans for Teshin have converged on this location. Find him."
+ ()
+Operator: "Why hasn't he reached out to us? If he is pursuing the Queens, we can help him."
+ ()
+ ()
+ ()
+ ()
+Lotus: "Pride or shame, he does seem to have some connection to them. Stay on the trail. Finding the Queens could give us a tactical advantage against the Grineer."
+ ()
+ ()
+Operator: "Understood."
+ ()
+ ()
+ ()
+ ()
+(On spotting the specter)
+
+Operator: "I've picked up the trail again."
+ ()
+ ()
+ ()
+ ()
+Lotus: "That's not Teshin, it's another one of his Specters. He's trying to shake us off the trail. Capture that Specter, we can use it to find the real Teshin."
+ ()
+(On capture)
+
+Lotus: "Well done. Return to your ship, I will alert you when I've decrypted this Specter's control signature."
+ ()
+Pursue Teshin into the Asteroid Field: Naga, Sedna
+Lotus: "Teshin's Specter points to what should be an unpopulated asteroid field, but deep scans show the presence of a security-matrix. Someone is trying to hide something, I need you to find out what. Prepare your Archwing."
+ ()
+(On mission entry)
+
+Lotus: "Something is hiding in this asteroid field but before you can investigate you need to disable the security matrix. Ordis, are you certain this is the best angle of approach?"
+ ()
+Ordis: "Well, outside this corridor lie burst scanners, severe radiation, proximity mines, --GRINEER DEATH BEAMS-- so yes, Ordis recommends staying within the shipping corridor."
+ ()
+Ordis: "Operator, watch that transport ahead. The scanner is only able to scan one side at a time. You can use that to your advantage."
+ ()
+Lotus: "You heard Ordis. Keep the transport between yourself and the beams. Do not let them touch you."
+ ()
+(As the player progresses through the scanners)
+
+Ordis: "They're going to scan the top of the transport, get below it."
+ ()
+Ordis: "Another scanner, to the right of the ship."
+ ()
+Ordis: "Watch out, to the ship's left, another scanner."
+ ()
+Ordis: "(sigh of relief) This is the last scanner."
+ ()
+Lotus: "Nicely done. They still haven't seen you."
+ ()
+Ordis: "You're clear."
+ ()
+Ordis: "Yes. Might I say that was smooth, Operator."
+ ()
+ ()
+Lotus: "You're through. Land at the checkpoint."
+ ()
+(If player runs into a scanner)
+
+Lotus: "You've been detected. They know you are here."
+ ()
+(Upon landing)
+
+Lotus: "This checkpoint is the central hub of the security matrix. Shut it down so Ordis can fly you in undetected."
+ ()
+(On starting defense)
+
+Lotus: "They're coming for you. Don't let them abort the shutdown."
+ ()
+(On finishing)
+
+Ordis: "Ordis no longer detects any security."
+ ()
+Lotus: "Good, but we can't take any chances, silence the remaining Grineer."
+ ()
+(On exterminating everyone)
+
+Lotus: "You are in the clear. Keep moving."
+ ()
+(On seeing the Fortress)
+
+Operator: "Are you seeing this?!"
+ ()
+ ()
+ ()
+ ()
+Lotus: "(static) It must be the Queens' Fortress."
+ ()
+Operator: "Are those Fomorian engines mounted on an asteroid? No wonder we've never been able to find it. It's always moving."
+ ()
+ ()
+ ()
+ ()
+Lotus: "(static) Excellent, Tenno. Now get out of there. We'll need to analyze the intel you've gathered before our next move."
+ ()
+Operator: "Negative. I'm heading in for a closer look."
+ ()
+ ()
+ ()
+ ()
+Lotus: "(static) There is a lot of Transference distortion in this area. I recommend we abort this mission and wait for Teshin to reach out."
+ ()
+Boarding the Kuva Fortress will restrict mission access. Commit?
+
+Yes
+Operator: "If the base moves again, we'll lose this opportunity. I'm going in."
+ ()
+ ()
+ ()
+ ()
+No
+Operator: "Fine. I'll head back to the Orbiter, but the base won't be here for long."
+ ()
+ ()
+ ()
+ ()
+Infiltrate the Grineer Asteroid Fortress: Dakata, Kuva Fortress
+(This transmission on the Orbiter can only be heard it if the player chooses to delay boarding the Fortress. Otherwise, it loads the next mission without putting the player into the Orbiter.)
+
+Ordis: "Operator, if you must enter the Queens' Fortress, you'll need to hurry, it could disappear at any moment."
+ ()
+(Progressing through the mission)
+
+Operator: "Massively fortified. The Queens have to be here. I'm going to infiltrate the base."
+ ()
+ ()
+ ()
+ ()
+Lotus: (static)
+ ()
+Operator: "Lotus, are you receiving me?"
+ ()
+ ()
+ ()
+ ()
+Lotus: (static)
+ ()
+Elder Queen: "We're so glad you came."
+ ()
+Operator: "Lotus? If you can hear me, something's tampering with the Transference stream. I'm going to locate the source."
+ ()
+ ()
+ ()
+ ()
+Lotus: (static)
+ ()
+Queens: "We have a gift for you."
+ ()
+Cinematic at the throne room
+Operator: "I know this place."
+ ()
+ ()
+ ()
+ ()
+Operator: "Teshin?!"
+ ()
+ ()
+ ()
+ ()
+Teshin: "You shouldn't have come here. You've ruined us both."
+ ()
+Elder Queen: "Well done, Teshin Dax."
+ ()
+Operator: "Teshin Dax... you're with them?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "I have come, as you commanded, my Queens."
+ ()
+Worm Queen: "And this is your offering? My sister needs the orphan child, not its Infested puppet."
+ ()
+ ()
+Teshin: "The child? For what purpose?"
+ ()
+Worm Queen: "(laughs) To eat it, of course!"
+ ()
+Elder Queen: "Hush worm! Do not question your Lords, Teshin Dax. Bring me the orphan. Bring me my Yuvan."
+ ()
+Operator: "ENOUGH!"
+ ()
+ ()
+ ()
+ ()
+Worm Queen: "(gasp) How rude!"
+ ()
+Elder Queen: "Oh, it's not their fault, worm. Mommy and Daddy weren't around long enough to teach them any manners. (laugh) We will have to."
+ ()
+Operator: "Ordis! What is this?!"
+ ()
+ ()
+ ()
+ ()
+Ordis: "A Transference surge, Operator! You're losing your Warframe connection!"
+ ()
+Elder Queen: "You have some idea that you're invincible, don't you? Nestled away in that mad Cephalon's crib-"
+ ()
+Elder Queen: "But you belong to me now. For you see, child, we conceived of these ugly, metal cysts."
+ ()
+Ordis: "Operator! Cut the link!"
+ ()
+Operator: "I... I can't!"
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "We gave you your precious gifts. And now, just as easily, we take them all away!"
+ ()
+ ()
+Ordis: "CUT THE LINK! Transference overload in 5... 4... 3..."
+ ()
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+(Back to the Orbiter)
+Cinematic at the Transference chamber
+Ordis: "Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --"
+ ()
+Operator: "Ordis, enough."
+ ()
+ ()
+ ()
+ ()
+Ordis: "Operator?! By stars! Don't do that to me. I am sorry I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--2--"
+ ()
+Operator: "Stop... uh... what's with the music?"
+ ()
+ ()
+ ()
+ ()
+Ordis: "Isn't it great? I can lead you through some breathing exercises..."
+ ()
+Operator: "Just... just turn it off! Get the Transference power back on, okay? I lost my Warframe."
+ ()
+ ()
+ ()
+ ()
+Ordis: "I've been trying. You may need to do your uh... Tenno thing again. Re-energize it, you know, with your... Void stuff!"
+ ()
+(On successfully failing that)
+
+Operator: "I-I can't. It's... gone."
+ ()
+ ()
+ ()
+ ()
+Ordis: "What? Gone? Are you sure? How will you command the Warframes if your --Conditions satisfied. Engaging Purge Precept.--"
+ ()
+ ()
+Operator: "Purge? Purge what?! Ordis?! What the hell?!"
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+Ordis: "--You no longer possess Transference. You no longer command the Warframes. You no longer are the Operator. You must be purged from this vessel.--"
+ ()
+Ordis: "Non-operator, I'm sorry to inconvenience you, but I'm going to decompress the ship now."
+ ()
+Ordis: "Former Operator, Ordis cannot keep missing like this! Get out of here before --I Purge you.--"
+ ()
+(If the player doesn't progress towards the navigation console quickly enough)
+
+Ordis: "Ex-Operator, if you get to the navigation console, I may be able to detach the landing craft before I... before I kill you."
+ ()
+(As player progresses towards the navigation console)
+
+Ordis: "--You are not the Operator. You will be purged.--"
+ ()
+Ordis: "--Exterminate! Exterminate the non-Operator.--"
+ ()
+Ordis: "Operator! Cut the link... cut the link!"
+ ()
+Sound Effects
+Various panting and breathing sound effects
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+ ()
+The Mountain Pass: Earth
+Cinematic at the campfire
+Operator: "Ugh... What happened to you?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "They gave up."
+ ()
+Operator: "You... you betrayed me, you Infested piece of--"
+ ()
+ ()
+ ()
+ ()
+Teshin: "Yes, do it."
+ ()
+Teshin: "As I thought. The hard way, then."
+ ()
+Operator: "So the great Teshin is just a dog... fetching the Queen's stick wherever she throws it."
+ ()
+ ()
+ ()
+ ()
+Teshin: "I warned you. Now you're trapped inside this place with the Queens burrowing in. Now I am forced to undo what Margulis did, to open the gates... and make you suffer."
+ ()
+Teshin: "Margulis lied to you, a lie of omission. She did not cure the Zariman children - she erased them. My only hope is that truth still lingers inside you, buried within your mind. The power and the misery... of the Void."
+ ()
+Teshin: "The Ayatan Sculptures are perpetually in motion, monuments of Orokin Continuity... immortality. But this one is halted and aging, needing you, as the Queens do. Will you give in to them? Or will you face the coil?"
+ ()
+Cinematic (first memory)
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Operator: "I remember..."
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "Mother takes your hand and says there's been an accident. But don't worry, angel, you're safe with me. Her eyes are distant, unfocused..."
+ ()
+Operator: "She's lying."
+ ()
+ ()
+ ()
+ ()
+Operator: "(gasps)"
+ ()
+ ()
+ ()
+???: "She's lying."
+ ()
+ ()
+ ()
+ ()
+Operator: "(struggles to remove bone that stabbed into their leg)"
+ ()
+ ()
+ ()
+ ()
+Teshin: "Beware the ravenous Golden Maw!"
+ ()
+Operator: "Why does it have to be ravenous?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "The Queen burrows into your mind just as the creature worms beneath your feet. With each step, you will discover what Margulis took from you. With each step, pain awaits you."
+ ()
+Operator: "I can't even remember her face."
+ ()
+ ()
+ ()
+ ()
+(On acquiring Void Sling)
+
+Teshin: "Your past has weathered Margulis' manipulation. It lurks here, your only hope of surviving the Queens."
+ ()
+Teshin: "Destroy this barrier and go deeper into your past."
+ ()
+Operator: "Sounds great, Teshin."
+ ()
+ ()
+ ()
+ ()
+Cinematic (second memory)
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Operator: "The air was acrid and still."
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "The biomes had been sabotaged. The food stocks dwindled. Paranoia gripped your father's mind. What was it he said - as he stared out into the starless black?"
+ ()
+Operator: "Something's out there, kiddo... watching us."
+ ()
+ ()
+ ()
+ ()
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+???: "Something's out there, kiddo... watching us."
+ ()
+ ()
+ ()
+ ()
+Operator: "The whole ship went insane."
+ ()
+ ()
+ ()
+ ()
+Teshin: "You exist on the fold between two worlds. The world we know, of blood and steel, and the world that watches and dreams, the Void. Charge across the fold as you once did."
+ ()
+Operator: "Incredible. And I was kicking myself for not bringing a rope."
+ ()
+ ()
+ ()
+ ()
+Cinematic (third memory)
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Operator: "I smell... smoke."
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "Fires rage on the lower decks. Blood shimmers in the fitful light. Hunting parties roam the ship. But there is singing and laughter and play... for all the children have come together. Their minds, somehow unbent. You wipe away your tears, thinking-"
+ ()
+Operator: "This is my family now."
+ ()
+ ()
+ ()
+ ()
+???: "My family now."
+ ()
+ ()
+ ()
+ ()
+Operator: "They tore her apart."
+ ()
+ ()
+ ()
+ ()
+(On acquiring Void Mode)
+
+Teshin: "The Queen is nearly through. She knows what you did, giving her resolve. Now, you must master the fold. Walk upon its edge, concealing your movement within the shadows you create."
+ ()
+Operator: "Shadows I create. Another Teshin metaphor, right?"
+ ()
+ ()
+ ()
+ ()
+Cinematic (fourth memory)
+Operator: "I can hear them..."
+ ()
+ ()
+ ()
+ ()
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "The grownups are howling at the door... drowning mad in the Void ocean but you... you are at ease swimming within the depths! You remember then how the howling stopped - they had broken through."
+ ()
+I held out hope
+Operator: "I held out hope we'd be rescued. So I avoided the bloodshed."
+ ()
+ ()
+ ()
+ ()
+???: "I held out hope."
+ ()
+ ()
+ ()
+ ()
+They had lost their minds
+Operator: "They had lost their minds. I didn't blame them. We build[sic] a makeshift prison."
+ ()
+ ()
+ ()
+ ()
+???: "They had lost their minds."
+ ()
+ ()
+ ()
+ ()
+They were nothing but animals
+Operator: "They were nothing but animals by then. So I hunted."
+ ()
+ ()
+ ()
+ ()
+???: "So I hunted."
+ ()
+ ()
+ ()
+ ()
+(On acquiring Transference)
+
+Teshin: "Your repressed power has returned, fused with your Tenno abilities, amplifying them. You've outgrown the cradle. Now your Transference is innate. Control these Orokin beasts and escape this prison."
+ ()
+Operator: "Control them? Like a Warframe?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "Know this Tenno, that I am a Dax. A soldier of a lost era, the last of my kind. By Orokin hands we Dax were given great power, great strength... but an even greater weakness."
+ ()
+Teshin: "To obey their command. To never defy the Kuva, the Scepter, the symbols of their dominion. No Dax can ever raise steel against an Orokin. Only you can do that."
+ ()
+Teshin: "A Yuvan theater, long abandoned. In ages past, I would have stood guard as the young and exotic were paraded through the mountain pass and marched by the viewing pane. They'd barter here, the Orokin. Withering and coughing- as they prepared for their Continuity."
+ ()
+Operator: "She doesn't want me dead."
+ ()
+ ()
+ ()
+ ()
+Teshin: "No. The Queen doesn't want to kill you. She wants to become you. To burrow through your mind corrupting it with despair until only she remains."
+ ()
+Cinematic (fifth memory)
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "No crew aboard, only the children... only the parricidal monsters they had become. The endless Void, the gazing abyss, the bottomless ocean of horror... it coiled itself around your tender heart."
+ ()
+ ()
+I hated it
+Operator: "I hated it."
+ ()
+ ()
+ ()
+ ()
+???: "I hated it."
+ ()
+ ()
+ ()
+ ()
+I controlled it
+Operator: "I controlled it."
+ ()
+ ()
+ ()
+ ()
+???: "I controlled it."
+ ()
+ ()
+ ()
+ ()
+I embraced it
+Operator: "I embraced it."
+ ()
+ ()
+ ()
+ ()
+???: "I embraced it."
+ ()
+ ()
+ ()
+ ()
+Ordis: "CUT THE LINK!"
+ ()
+Ordis: "CUT THE LINK! Transference overload in 5...4...3...2...1"
+ ()
+Operator: "(screams)"
+ ()
+ ()
+ ()
+ ()
+
+
+(Back to the Orbiter again)
+Cinematic at the Transference Chamber
+Ordis: "Operator? Is that... is that 'you'? Your brain activity flat-lined for a moment there... Can you speak? By stars, the Operator's mind is destroyed?!!"
+ ()
+Operator: "I... I'm fine. Just... just don't play any music. I need to think."
+ ()
+ ()
+ ()
+ ()
+Ordis: "Music? ...Operator you are not making sense! The Transference surge must have affected you as well. Try to rest while I begin repairs."
+ ()
+Ordis: "Understood. The Operator does not like music."
+ ()
+Ordis: "Hmm... this is odd. The circuits are dead but I'm detecting Transference energy... coming from... coming from you?!"
+ ()
+(Void Sling)
+
+Ordis: "Amazing. How are you doing this? It is slightly terrifying if I'm honest."
+ ()
+(Void Mode)
+
+Ordis: "Operator, my sensors have gone dark. Where are you?"
+ ()
+(Once player exits it.)
+
+Ordis: "Oh. There you are! Impressive. Very useful. Ordis is a little afraid right now. "
+ ()
+(Void Beam)
+
+Ordis: "Operator, you'll breach the hull! Please restrain yourself."
+ ()
+Cinematic at the Transference Chamber
+Ordis: "Have you lost your mind?"
+ ()
+Operator: "No. But I've lost my Warframe... and Teshin... what if the Queens know that he helped me escape? I have to go back."
+ ()
+ ()
+ ()
+ ()
+Ordis: "Impossible! Just as you thought, the base has moved again. We don't know where it is. There's no way back."
+ ()
+Operator: "My Warframe. It's still there."
+ ()
+ ()
+ ()
+ ()
+Ordis: "Haven't you been listening? The Transference system is fried!"
+ ()
+Operator: "I don't need it anymore."
+ ()
+ ()
+ ()
+ ()
+(Transference)
+
+Ordis: "Operator, where are you going? Don't leave meeeeee..."
+ ()
+(Back in the Fortress)
+Cinematic (start of the Queens fight)
+Elder Queen: "What did you do, Dax? What did you do?! How did a child reject the Continuity?"
+ ()
+Teshin: "Forgive me, my Queens."
+ ()
+Elder Queen: "We hold the Scepter! We command you. We are--"
+ ()
+Worm Queen: "Sister! The dreamer's come for us!"
+ ()
+Teshin: "Tenno, no! After everything you've endured to escape, why did you come back?"
+ ()
+Operator: "I came back for you."
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "Stupid child. You don't give up, do you? But coming here in the flesh? That was a big mistake. Guards! Kill this Warframe and bring me my new skin!"
+ ()
+Teshin: "The Guardians protect the braids, the braids protect the Queen."
+ ()
+(Teshin will go through following lines one at a time if the player didn't use Transference. Once he says all three, he stops talking, and the hint to use Transference appears on the screen.)
+
+Teshin: "Tenno, this is one fight your Warframe cannot win."
+ ()
+Teshin: "Remember the mountain. Remember your new strength."
+ ()
+Teshin: "It's time to show the Queens what they have awoken within you."
+ ()
+(After using Transference, Teshin will switch to a new list of lines. Once he reaches the third, he will keep on repeating it until player uses Void Sling on the Kuva Guardian.)
+
+Teshin: "Their weapons contain Kuva, it protects them from your Warframe but not from your Tenno powers."
+ ()
+Teshin: "They are protected by the Kuva in their weapons. Find a way to disarm them."
+ ()
+Teshin: "Tenno, remember the Golden Maw and how you brought it to heel."
+ ()
+Teshin: "Let the Guardians feel your pulse from the Void."
+ ()
+(Once player uses Void Sling on the Guardian.)
+
+Teshin: "They're vulnerable. Attack."
+ ()
+(Keeps on repeating once the player defeats the first Guardian and until they destroy a braid.)
+
+Teshin: "The red braids shield her. Destroy them!"
+ ()
+Elder Queen: "Shut up you insolent Dax!"
+ ()
+(Destroying braids 1st time)
+
+Elder Queen: "Guards! Kill this Tenno!"
+ ()
+(Destroying braids 2nd time)
+
+Elder Queen: "Long enough have I lived in this ugly Grineer bodies. I need new flesh... I deserve new flesh! Yours! Guards! Kill this Warframe and bring me my new skin!"
+ ()
+ ()
+(Destroying braids 3rd and last time)
+
+Elder Queen: "By my Orokin blood, I command you, Teshin Dax, to kill this Tenno."
+ ()
+Teshin: "No, I cannot."
+ ()
+Elder Queen: "You must. By your oath eternal."
+ ()
+Teshin: "That child I met on the mountain will surely die here."
+ ()
+Operator: "That child is gone."
+ ()
+ ()
+ ()
+ ()
+Teshin: "I can show you no mercy, show me none in return."
+ ()
+(Health ~ 66%)
+
+Teshin: "Yes! From the moment I began training you, I have anticipated this moment."
+ ()
+(Health ~ 33%)
+
+Teshin: "You must not stop, defeat me."
+ ()
+(Health = 0%)
+
+Teshin: "You are a child no longer."
+ ()
+Teshin: "I am beaten."
+ ()
+Teshin: "I... Cannot go... On..."
+ ()
+Elder Queen: "We are Orokin! We created you! We are your Golden Lords!"
+ ()
+Elder Queen: "Come out, come out, little demon."
+ ()
+(These four exchanges will keep on cycling until the Queen is defeated.)
+
+Teshin: "Without her Sceptre[sic], she is powerless. Break her shields and use your dash to steal it."
+ ()
+Elder Queen: "You'll pay for that."
+ ()
+Elder Queen: "I see now, how you cast me out. Simple, really. There's no room for me in that wicked, swarming head of yours."
+ ()
+Elder Queen: "Is this how you hunted the Zariman crew? Is this how you murdered your parents?"
+ ()
+Elder Queen: "Show yourself you little coward."
+ ()
+Elder Queen: "(screeches)"
+ ()
+Cinematic (end of the fight)
+Operator: "(grunts)"
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "What are you waiting for, Dax?"
+ ()
+ ()
+ ()
+Teshin: "A chance to kill you... and now I finally have it."
+ ()
+Teshin: "Shall I, Tenno?"
+ ()
+Let her rot
+Operator: "No. Let her rot. That will be her sentence."
+ ()
+ ()
+ ()
+ ()
+I will do it
+Operator: "No. I will do it."
+ ()
+ ()
+ ()
+ ()
+Queen: "No! NO! AHHH"
+Kill her
+Operator: "Kill her."
+ ()
+ ()
+ ()
+ ()
+Queen: "No! NO! AHHH"
+ ()
+Teshin: "The Worm has rallied the troops. Get to your ship. I'll divert them. Go!"
+ ()
+Lotus: "Tenno? Tenno? I've been trying to get through. Are you... alright? Your Transference stream seems different, stronger."
+ ()
+Operator: "We have neutralized the Queens. Teshin... Teshin helped me. I'm heading to extraction now."
+ ()
+ ()
+ ()
+ ()
+Lotus: "The Queens... they cut me off... I should have been there for you. I'll signal Ordis to pick you up right away."
+ ()
+Operator: "Understood."
+ ()
+ ()
+ ()
+ ()
+Worm Queen: "Beast! Get that thing! Don't let it escape!"
+ ()
+Worm Queen: "Where do you think you're going skin suit? I have plans for you, delicious plans."
+ ()
+Ordis: "Thank the stars you're safe Operator! I forbid you to leave the Orbiter like that again, it's just too much for an old Cephalon like me."
+ ()
+Sound Effects
+Elder Queen: "(screeches)"
+ ()
+ ()
+ ()
+ ()
+Elder Queen: "(coughing)"
+ ()
+ ()
+ ()
+ ()
+ ()
+(Orbiter)
+Ordis: "You rescued your Warframe! What a relief. But... Ordis wonders, are you still able to walk the ship as... yourself?"
+ ()
+Ordis: "Impressive! Just think of the possibilities! You can help me clean up that Infested door!"
+ ()
+Lotus: "A mother wants to shield her child from the evils of the world. Margulis didn't lie to you. She protected you."
+ ()
+Operator: "But isn't it better I know the truth? Wouldn't you want to know? Teshin said--"
+ ()
+ ()
+ ()
+ ()
+Lotus: "Teshin thinks he knows better. Maybe he does? Maybe you needed to know to survive the Queens. But you are changed now."
+ ()
+Operator: "That's what you have to say? That I'm 'changed'?"
+ ()
+ ()
+ ()
+ ()
+Lotus: "What you did. You didn't have a choice. Tenno, you were only just a--"
+ ()
+Operator: "Don't. Don't do that. Don't make excuses for me."
+ ()
+ ()
+ ()
+ ()
+Ordis: "What's this? An Old War beacon? How exciting, Operator. You will want to investigate this... Oh. I'm sorry... did I interrupt?"
+ ()
+Return to the Mountain Pass: Earth
+Cinematic at the summit
+Teshin: "You don't know what to do with it."
+ ()
+Operator: "Tell me."
+ ()
+ ()
+ ()
+ ()
+Teshin: "Hmm... Some believe the Kuva within is the blood of the Orokin Ancestors. An elixir of power... of immortality."
+ ()
+Teshin: "Others believe it to be a poison, a corrupting oil that brings madness and evil."
+ ()
+Elder Queen: "(ambient noises)"
+ ()
+ ()
+Operator: "What do you believe?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "I believe them both. But for you, Tenno, perhaps this Kuva is just a symbol. That what you choose to do will define you more than anything."
+ ()
+Destroy
+???: "You mad at me, kiddo? Did you forget? You owe me."
+ ()
+ ()
+ ()
+ ()
+Control
+???: "Don't forget, kiddo... you're nothing without me."
+ ()
+ ()
+ ()
+ ()
+Consume
+???: "Hey, kiddo, what took you so long?"
+ ()
+ ()
+ ()
+ ()
+Teshin: "The world weighs more heavily on you now. Try not to lose yourself, Tenno."
+ ()
+Operator: "I won't."
+ ()
+ ()
+ ()
+ ()
+THE WAR WITHIN
+Inbox Messages
+“A child no longer
+
+On icy mountaintop a child, cold and scared met an old man, the prisoner of a poison oath. For the child, a frozen death would have been a peaceful end. Instead, they fought on and found a fire within themselves, a way to light the path ahead.
+
+The old man was a traitor. He deserved death, but the child was wise and merciful, and freed him from his burden. With that, the child left the cradle behind and they became more than a Tenno, they became themselves.
+
+Tenno, if you can find a way to forgive this old man's deception, to trust him again, then he will be forever be in your service.
+
+—Teshin Dax”
+
+(Attachments:  Broken Scepter,  Orvius Blueprint, Veiled Primary Riven Mod, Grineer Queens Glyph, The War Within Choice Scene)
+
+“A Space to Make Your Own
+
+It’s time we made some changes around here.” —Ordis
+
+(Attachment: Personal Quarters Segment Blueprint)
+
+Ordis: "Operator, Ordis has been thinking. Now that you are here in the flesh, we should make the Orbiter more comfortable. Ordis has identified an old storage space you could use. Stand by while I --TORCH THIS JUNK-- dispose of my old belongings. Out with the old and in with the new, right, Operator? Construct this Domestic Habitation Segment to extend life support to your new room."
+ ()
+“A Gift From The Past That Is Yet To Be
+
+From the immeasurable skein of fate, woven unseen from infinite collisions between choice and outcome, action and reaction, cause and effect, a single object has been delivered into my possession.
+
+And soon, from my possession to yours.
+
+You come to Cetus. You find a door like no other. You show that door your true self. That door opens. Behind that door, I await you. From my possession to yours sweeps this single object, this impossible product of infinite choices - a singular thing intended solely for you.
+
+To Cetus. To the door.”
+
+After completing The War Within, being Mastery Rank 5, and owning a Railjack
+“Spare the Rod
+
+Tenno are such arrogant, undisciplined children!
+
+Mommy Lotus might spare the rod, but not ME! Every siphoned drop of the Old Blood makes my fortress grow stronger. Sweet, sweet Kuva!
+
+Be on your best behavior, little one. You KNOW what you did to my sister. My Kuva Liches can make sure you get what you deserve!
+
+Your Undying Queen”
+
+After completing The War Within and Call of the Tempestarii, and being Mastery Rank 5
+“Corporate Machinations
+
+Operator,
+
+During a routine electromagnetic wave sweep, a most distressing message was intercepted on the Corpus network. Ordis hopes nothing comes of this murderous consortium, or rather, board meeting.
+
+Do be careful.
+
+Your loyal Cephalon, Ordis”
+
+“Lua Stirs
+
+[PLAYER NAME],
+
+Lua has felt my touch as I have felt its in return. Rescuing Lua - and you - from the Void may be changing this place. The Void stirs and shakes Lua to its core... exposing ancient halls long since abandoned.
+
+Smelling possible treasure, the Grineer Worm Queen ordered her troops to descend upon these newly exposed halls. They were instantly Corrupted by its long dormant Orokin Neural Sentry.
+
+The secrets that lie buried here are yours, not theirs.
+
+Infiltrate the Yuvarium and Circulus, survive the Corrupted and we will claim those secrets together.
+
+Lotus”

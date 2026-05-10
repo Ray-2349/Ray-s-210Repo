@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>I'm afraid, sister. Your Continuity grows near.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Hush, worm. Let the beasts do their work.</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>But the dreamers have awakened. They will come for us.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Yes, they will... like the answer to a prayer.</speech>
+   </sp>
+   <info>Investigate the Reservoir on Lua: Zeipel, Lua</info>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Tenno? Are you alright? Your Somatics output seems high.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I... just... nodded off. It's nothing.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Good. Deploy a Warframe to Lua. My sentries have gone silent. We may have an intrusion.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>On it.</speech>
+   </sp>
+   <infoMarked>On mission entry</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>It was here Margulis put you into the dream, tried to heal you... tried to give you the strength to tame the Void within you. In a way, this is where you, where all Tenno, were born.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>But we weren't born here, were we?</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>No. When the Zariman was found adrift, the Orokin did everything they could to erase their mistakes. Transit recordings, personnel logs... everything was wiped out. The only thing they kept was... you.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>I'm detecting an unknown signature further ahead. Find out who it is and what they're doing.</speech>
+   </sp>
+   <infoMarked>Upon spotting Teshin</infoMarked>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I just saw the intruder... moving fast. I think it's Teshin.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Teshin? What is he doing here? It looks like he's heading to a Reservoir. Follow him.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Leave now. This doesn't concern you, child.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Don't call me that. What are you doing here?</speech>
+   </sp>
+   <info>Cinematic at the Reservoir</info>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Bring them to me.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>What was that?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Queens.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Queens?! The Grineer Queens? Tell me what--</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I am warning you. You think you're safe behind this metal, but you're not. Not in the ways that matter here. Behind this, you're still just a child --</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Stop saying that.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Follow me again, Tenno, and you will answer to my sword.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>I thought the Queens were just an invention of Grineer command. No one has ever seen them in the flesh.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I have a feeling Teshin has. Can you track him?</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Not with Specters masking him. But Tenno, we don't know anything about the Queens. Maybe Teshin alone should--</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>No. Teshin's not going to tell me what I can and cannot do. I'll take out his Specters so you can track him.</speech>
+   </sp>
+   <infoMarked>On capturing the specter</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>I have a lock on his route. Exfiltrate when you're ready.</speech>
+   </sp>
+   <info>Track Teshin: Carpo, Jupiter</info>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Teshin is trying to mask his location from us, but I have pinpointed a suspicious signal for you to investigate. Find him, we need answers.</speech>
+   </sp>
+   <infoMarked>On mission entry</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>All my scans for Teshin have converged on this location. Find him.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Why hasn't he reached out to us? If he is pursuing the Queens, we can help him.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Pride or shame, he does seem to have some connection to them. Stay on the trail. Finding the Queens could give us a tactical advantage against the Grineer.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Understood.</speech>
+   </sp>
+   <infoMarked>On spotting the specter</infoMarked>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I've picked up the trail again.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>That's not Teshin, it's another one of his Specters. He's trying to shake us off the trail. Capture that Specter, we can use it to find the real Teshin.</speech>
+   </sp>
+   <infoMarked>On capture</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Well done. Return to your ship, I will alert you when I've decrypted this Specter's control signature.</speech>
+   </sp>
+   <info>Pursue Teshin into the Asteroid Field: Naga, Sedna</info>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Teshin's Specter points to what should be an unpopulated asteroid field, but deep scans show the presence of a security-matrix. Someone is trying to hide something, I need you to find out what. Prepare your Archwing.</speech>
+   </sp>
+   <infoMarked>On mission entry</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Something is hiding in this asteroid field but before you can investigate you need to disable the security matrix. Ordis, are you certain this is the best angle of approach?</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Well, outside this corridor lie burst scanners, severe radiation, proximity mines, --GRINEER DEATH BEAMS-- so yes, Ordis recommends staying within the shipping corridor.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, watch that transport ahead. The scanner is only able to scan one side at a time. You can use that to your advantage.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>You heard Ordis. Keep the transport between yourself and the beams. Do not let them touch you.</speech>
+   </sp>
+   <infoMarked>As the player progresses through the scanners</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>They're going to scan the top of the transport, get below it.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Another scanner, to the right of the ship.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Watch out, to the ship's left, another scanner.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>
+         <infoMarked>sigh of relief</infoMarked>This is the last scanner.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Nicely done. They still haven't seen you.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>You're clear.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Yes. Might I say that was smooth, Operator.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>You're through. Land at the checkpoint.</speech>
+   </sp>
+   <infoMarked>If player runs into a scanner</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>You've been detected. They know you are here.</speech>
+   </sp>
+   <infoMarked>Upon landing</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>This checkpoint is the central hub of the security matrix. Shut it down so Ordis can fly you in undetected.</speech>
+   </sp>
+   <infoMarked>On starting defense</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>They're coming for you. Don't let them abort the shutdown.</speech>
+   </sp>
+   <infoMarked>On finishing</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Ordis no longer detects any security.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Good, but we can't take any chances, silence the remaining Grineer.</speech>
+   </sp>
+   <infoMarked>On exterminating everyone</infoMarked>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>You are in the clear. Keep moving.</speech>
+   </sp>
+   <infoMarked>On seeing the Fortress</infoMarked>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Are you seeing this?!</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>
+         <infoMarked>static</infoMarked>It must be the Queens' Fortress.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Are those Fomorian engines mounted on an asteroid? No wonder we've never been able to find it. It's always moving.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>
+         <infoMarked>static</infoMarked>Excellent, Tenno. Now get out of there. We'll need to analyze the intel you've gathered before our next move.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Negative. I'm heading in for a closer look.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>
+         <infoMarked>static</infoMarked>There is a lot of Transference distortion in this area. I recommend we abort this mission and wait for Teshin to reach out.
+      </speech>
+   </sp>
+   <info>Boarding the Kuva Fortress will restrict mission access. Commit?</info>
+   <info>Yes</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>If the base moves again, we'll lose this opportunity. I'm going in.</speech>
+   </sp>
+   <info>No</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Fine. I'll head back to the Orbiter, but the base won't be here for long.</speech>
+   </sp>
+   <info>Infiltrate the Grineer Asteroid Fortress: Dakata, Kuva Fortress</info>
+   <infoMarked>This transmission on the Orbiter can only be heard it if the player chooses to delay boarding the Fortress. Otherwise, it loads the next mission without putting the player into the Orbiter.</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, if you must enter the Queens' Fortress, you'll need to hurry, it could disappear at any moment.</speech>
+   </sp>
+   <infoMarked>Progressing through the mission</infoMarked>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Massively fortified. The Queens have to be here. I'm going to infiltrate the base.</speech>
+   </sp>
+   <infoLine>
+      <info>Lotus:</info> 
+      <infoMarked>static</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Lotus, are you receiving me?</speech>
+   </sp>
+   <infoLine>
+      <info>Lotus:</info> 
+      <infoMarked>static</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>We're so glad you came.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Lotus? If you can hear me, something's tampering with the Transference stream. I'm going to locate the source.</speech>
+   </sp>
+   <infoLine>
+      <info>Lotus:</info> 
+      <infoMarked>static</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Queens</speaker>
+      <speech>We have a gift for you.</speech>
+   </sp>
+   <info>Cinematic at the throne room</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I know this place.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Teshin?!</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>You shouldn't have come here. You've ruined us both.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Well done, Teshin Dax.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Teshin Dax... you're with them?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I have come, as you commanded, my Queens.</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>And this is your offering? My sister needs the orphan child, not its Infested puppet.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The child? For what purpose?</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>
+         <infoMarked>laughs</infoMarked>To eat it, of course!
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Hush worm! Do not question your Lords, Teshin Dax. Bring me the orphan. Bring me my Yuvan.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>ENOUGH!</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>
+         <infoMarked>gasp</infoMarked>How rude!
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Oh, it's not their fault, worm. Mommy and Daddy weren't around long enough to teach them any manners.
+         <infoMarked>laugh</infoMarked>We will have to.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Ordis! What is this?!</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>A Transference surge, Operator! You're losing your Warframe connection!</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>You have some idea that you're invincible, don't you? Nestled away in that mad Cephalon's crib-</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>But you belong to me now. For you see, child, we conceived of these ugly, metal cysts.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator! Cut the link!</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I... I can't!</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>We gave you your precious gifts. And now, just as easily, we take them all away!</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>CUT THE LINK! Transference overload in 5... 4... 3...</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <infoMarked>Back to the Orbiter</infoMarked>
+   <info>Cinematic at the Transference chamber</info>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Ordis, enough.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator?! By stars! Don't do that to me. I am sorry I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--2--</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Stop... uh... what's with the music?</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Isn't it great? I can lead you through some breathing exercises...</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Just... just turn it off! Get the Transference power back on, okay? I lost my Warframe.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>I've been trying. You may need to do your uh... Tenno thing again. Re-energize it, you know, with your... Void stuff!</speech>
+   </sp>
+   <infoMarked>On successfully failing that</infoMarked>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I-I can't. It's... gone.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>What? Gone? Are you sure? How will you command the Warframes if your --Conditions satisfied. Engaging Purge Precept.--</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Purge? Purge what?! Ordis?! What the hell?!</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>--You no longer possess Transference. You no longer command the Warframes. You no longer are the Operator. You must be purged from this vessel.--</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Non-operator, I'm sorry to inconvenience you, but I'm going to decompress the ship now.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Former Operator, Ordis cannot keep missing like this! Get out of here before --I Purge you.--</speech>
+   </sp>
+   <infoMarked>If the player doesn't progress towards the navigation console quickly enough</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Ex-Operator, if you get to the navigation console, I may be able to detach the landing craft before I... before I kill you.</speech>
+   </sp>
+   <infoMarked>As player progresses towards the navigation console</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>--You are not the Operator. You will be purged.--</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>--Exterminate! Exterminate the non-Operator.--</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator! Cut the link... cut the link!</speech>
+   </sp>
+   <info>Sound Effects</info>
+   <info>Various panting and breathing sound effects</info>
+   <info>The Mountain Pass: Earth</info>
+   <info>Cinematic at the campfire</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Ugh... What happened to you?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>They gave up.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>You... you betrayed me, you Infested piece of--</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Yes, do it.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>As I thought. The hard way, then.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>So the great Teshin is just a dog... fetching the Queen's stick wherever she throws it.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I warned you. Now you're trapped inside this place with the Queens burrowing in. Now I am forced to undo what Margulis did, to open the gates... and make you suffer.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Margulis lied to you, a lie of omission. She did not cure the Zariman children - she erased them. My only hope is that truth still lingers inside you, buried within your mind. The power and the misery... of the Void.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Ayatan Sculptures are perpetually in motion, monuments of Orokin Continuity... immortality. But this one is halted and aging, needing you, as the Queens do. Will you give in to them? Or will you face the coil?</speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>first memory</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I remember...</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Mother takes your hand and says there's been an accident. But don't worry, angel, you're safe with me. Her eyes are distant, unfocused...</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>She's lying.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>gasps</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>She's lying.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>struggles to remove bone that stabbed into their leg</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Beware the ravenous Golden Maw!</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Why does it have to be ravenous?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Queen burrows into your mind just as the creature worms beneath your feet. With each step, you will discover what Margulis took from you. With each step, pain awaits you.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I can't even remember her face.</speech>
+   </sp>
+   <infoMarked>On acquiring Void Sling</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Your past has weathered Margulis' manipulation. It lurks here, your only hope of surviving the Queens.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Destroy this barrier and go deeper into your past.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Sounds great, Teshin.</speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>second memory</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>The air was acrid and still.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>The biomes had been sabotaged. The food stocks dwindled. Paranoia gripped your father's mind. What was it he said - as he stared out into the starless black?</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Something's out there, kiddo... watching us.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>Something's out there, kiddo... watching us.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>The whole ship went insane.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>You exist on the fold between two worlds. The world we know, of blood and steel, and the world that watches and dreams, the Void. Charge across the fold as you once did.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Incredible. And I was kicking myself for not bringing a rope.</speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>third memory</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I smell... smoke.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Fires rage on the lower decks. Blood shimmers in the fitful light. Hunting parties roam the ship. But there is singing and laughter and play... for all the children have come together. Their minds, somehow unbent. You wipe away your tears, thinking-</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>This is my family now.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>My family now.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>They tore her apart.</speech>
+   </sp>
+   <infoMarked>On acquiring Void Mode</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Queen is nearly through. She knows what you did, giving her resolve. Now, you must master the fold. Walk upon its edge, concealing your movement within the shadows you create.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Shadows I create. Another Teshin metaphor, right?</speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>fourth memory</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I can hear them...</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>The grownups are howling at the door... drowning mad in the Void ocean but you... you are at ease swimming within the depths! You remember then how the howling stopped - they had broken through.</speech>
+   </sp>
+   <info>I held out hope</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I held out hope we'd be rescued. So I avoided the bloodshed.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>I held out hope.</speech>
+   </sp>
+   <info>They had lost their minds</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>They had lost their minds. I didn't blame them. We build
+         <sic/>a makeshift prison.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>They had lost their minds.</speech>
+   </sp>
+   <info>They were nothing but animals</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>They were nothing but animals by then. So I hunted.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>So I hunted.</speech>
+   </sp>
+   <infoMarked>On acquiring Transference</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Your repressed power has returned, fused with your Tenno abilities, amplifying them. You've outgrown the cradle. Now your Transference is innate. Control these Orokin beasts and escape this prison.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Control them? Like a Warframe?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Know this Tenno, that I am a Dax. A soldier of a lost era, the last of my kind. By Orokin hands we Dax were given great power, great strength... but an even greater weakness.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>To obey their command. To never defy the Kuva, the Scepter, the symbols of their dominion. No Dax can ever raise steel against an Orokin. Only you can do that.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>A Yuvan theater, long abandoned. In ages past, I would have stood guard as the young and exotic were paraded through the mountain pass and marched by the viewing pane. They'd barter here, the Orokin. Withering and coughing- as they prepared for their Continuity.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>She doesn't want me dead.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>No. The Queen doesn't want to kill you. She wants to become you. To burrow through your mind corrupting it with despair until only she remains.</speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>fifth memory</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>No crew aboard, only the children... only the parricidal monsters they had become. The endless Void, the gazing abyss, the bottomless ocean of horror... it coiled itself around your tender heart.</speech>
+   </sp>
+   <info>I hated it</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I hated it.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>I hated it.</speech>
+   </sp>
+   <info>I controlled it</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I controlled it.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>I controlled it.</speech>
+   </sp>
+   <info>I embraced it</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I embraced it.</speech>
+   </sp>
+   <sp>
+      <speaker>???</speaker>
+      <speech>I embraced it.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>CUT THE LINK!</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>CUT THE LINK! Transference overload in 5...4...3...2...1</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>screams</infoMarked>
+      </speech>
+   </sp>
+   <infoMarked>Back to the Orbiter again</infoMarked>
+   <info>Cinematic at the Transference Chamber</info>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator? Is that... is that 'you'? Your brain activity flat-lined for a moment there... Can you speak? By stars, the Operator's mind is destroyed?!!</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I... I'm fine. Just... just don't play any music. I need to think.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Music? ...Operator you are not making sense! The Transference surge must have affected you as well. Try to rest while I begin repairs.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Understood. The Operator does not like music.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Hmm... this is odd. The circuits are dead but I'm detecting Transference energy... coming from... coming from you?!</speech>
+   </sp>
+   <infoMarked>Void Sling</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Amazing. How are you doing this? It is slightly terrifying if I'm honest.</speech>
+   </sp>
+   <infoMarked>Void Mode</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, my sensors have gone dark. Where are you?</speech>
+   </sp>
+   <infoMarked>Once player exits it.</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Oh. There you are! Impressive. Very useful. Ordis is a little afraid right now. </speech>
+   </sp>
+   <infoMarked>Void Beam</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, you'll breach the hull! Please restrain yourself.</speech>
+   </sp>
+   <info>Cinematic at the Transference Chamber</info>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Have you lost your mind?</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>No. But I've lost my Warframe... and Teshin... what if the Queens know that he helped me escape? I have to go back.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Impossible! Just as you thought, the base has moved again. We don't know where it is. There's no way back.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>My Warframe. It's still there.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Haven't you been listening? The Transference system is fried!</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I don't need it anymore.</speech>
+   </sp>
+   <infoMarked>Transference</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, where are you going? Don't leave meeeeee...</speech>
+   </sp>
+   <infoMarked>Back in the Fortress</infoMarked>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>start of the Queens fight</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>What did you do, Dax? What did you do?! How did a child reject the Continuity?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Forgive me, my Queens.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>We hold the Scepter! We command you. We are--</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>Sister! The dreamer's come for us!</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Tenno, no! After everything you've endured to escape, why did you come back?</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I came back for you.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Stupid child. You don't give up, do you? But coming here in the flesh? That was a big mistake. Guards! Kill this Warframe and bring me my new skin!</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Guardians protect the braids, the braids protect the Queen.</speech>
+   </sp>
+   <infoMarked>Teshin will go through following lines one at a time if the player didn't use Transference. Once he says all three, he stops talking, and the hint to use Transference appears on the screen.</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Tenno, this is one fight your Warframe cannot win.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Remember the mountain. Remember your new strength.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>It's time to show the Queens what they have awoken within you.</speech>
+   </sp>
+   <infoMarked>After using Transference, Teshin will switch to a new list of lines. Once he reaches the third, he will keep on repeating it until player uses Void Sling on the Kuva Guardian.</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Their weapons contain Kuva, it protects them from your Warframe but not from your Tenno powers.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>They are protected by the Kuva in their weapons. Find a way to disarm them.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Tenno, remember the Golden Maw and how you brought it to heel.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Let the Guardians feel your pulse from the Void.</speech>
+   </sp>
+   <infoMarked>Once player uses Void Sling on the Guardian.</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>They're vulnerable. Attack.</speech>
+   </sp>
+   <infoMarked>Keeps on repeating once the player defeats the first Guardian and until they destroy a braid.</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The red braids shield her. Destroy them!</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Shut up you insolent Dax!</speech>
+   </sp>
+   <infoMarked>Destroying braids 1st time</infoMarked>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Guards! Kill this Tenno!</speech>
+   </sp>
+   <infoMarked>Destroying braids 2nd time</infoMarked>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Long enough have I lived in this ugly Grineer bodies. I need new flesh... I deserve new flesh! Yours! Guards! Kill this Warframe and bring me my new skin!</speech>
+   </sp>
+   <infoMarked>Destroying braids 3rd and last time</infoMarked>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>By my Orokin blood, I command you, Teshin Dax, to kill this Tenno.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>No, I cannot.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>You must. By your oath eternal.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>That child I met on the mountain will surely die here.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>That child is gone.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I can show you no mercy, show me none in return.</speech>
+   </sp>
+   <infoMarked>Health ~ 66%</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Yes! From the moment I began training you, I have anticipated this moment.</speech>
+   </sp>
+   <infoMarked>Health ~ 33%</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>You must not stop, defeat me.</speech>
+   </sp>
+   <infoMarked>Health = 0%</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>You are a child no longer.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I am beaten.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I... Cannot go... On...</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>We are Orokin! We created you! We are your Golden Lords!</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Come out, come out, little demon.</speech>
+   </sp>
+   <infoMarked>These four exchanges will keep on cycling until the Queen is defeated.</infoMarked>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Without her Sceptre
+         <sic/>, she is powerless. Break her shields and use your dash to steal it.
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>You'll pay for that.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>I see now, how you cast me out. Simple, really. There's no room for me in that wicked, swarming head of yours.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Is this how you hunted the Zariman crew? Is this how you murdered your parents?</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>Show yourself you little coward.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>
+         <infoMarked>screeches</infoMarked>
+      </speech>
+   </sp>
+   <infoLine>
+      <info>Cinematic</info> 
+      <infoMarked>end of the fight</infoMarked>
+   </infoLine>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>
+         <infoMarked>grunts</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>What are you waiting for, Dax?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>A chance to kill you... and now I finally have it.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Shall I, Tenno?</speech>
+   </sp>
+   <info>Let her rot</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>No. Let her rot. That will be her sentence.</speech>
+   </sp>
+   <info>I will do it</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>No. I will do it.</speech>
+   </sp>
+   <sp>
+      <speaker>Queen</speaker>
+      <speech>No! NO! AHHH</speech>
+   </sp>
+   <info>Kill her</info>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Kill her.</speech>
+   </sp>
+   <sp>
+      <speaker>Queen</speaker>
+      <speech>No! NO! AHHH</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The Worm has rallied the troops. Get to your ship. I'll divert them. Go!</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Tenno? Tenno? I've been trying to get through. Are you... alright? Your Transference stream seems different, stronger.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>We have neutralized the Queens. Teshin... Teshin helped me. I'm heading to extraction now.</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>The Queens... they cut me off... I should have been there for you. I'll signal Ordis to pick you up right away.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Understood.</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>Beast! Get that thing! Don't let it escape!</speech>
+   </sp>
+   <sp>
+      <speaker>Worm Queen</speaker>
+      <speech>Where do you think you're going skin suit? I have plans for you, delicious plans.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Thank the stars you're safe Operator! I forbid you to leave the Orbiter like that again, it's just too much for an old Cephalon like me.</speech>
+   </sp>
+   <info>Sound Effects</info>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>
+         <infoMarked>screeches</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>
+         <infoMarked>coughing</infoMarked>
+      </speech>
+   </sp>
+   <infoMarked>Orbiter</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>You rescued your Warframe! What a relief. But... Ordis wonders, are you still able to walk the ship as... yourself?</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Impressive! Just think of the possibilities! You can help me clean up that Infested door!</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>A mother wants to shield her child from the evils of the world. Margulis didn't lie to you. She protected you.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>But isn't it better I know the truth? Wouldn't you want to know? Teshin said--</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>Teshin thinks he knows better. Maybe he does? Maybe you needed to know to survive the Queens. But you are changed now.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>That's what you have to say? That I'm 'changed'?</speech>
+   </sp>
+   <sp>
+      <speaker>Lotus</speaker>
+      <speech>What you did. You didn't have a choice. Tenno, you were only just a--</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Don't. Don't do that. Don't make excuses for me.</speech>
+   </sp>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>What's this? An Old War beacon? How exciting, Operator. You will want to investigate this... Oh. I'm sorry... did I interrupt?</speech>
+   </sp>
+   <info>Return to the Mountain Pass: Earth</info>
+   <info>Cinematic at the summit</info>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>You don't know what to do with it.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>Tell me.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Hmm... Some believe the Kuva within is the blood of the Orokin Ancestors. An elixir of power... of immortality.</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>Others believe it to be a poison, a corrupting oil that brings madness and evil.</speech>
+   </sp>
+   <sp>
+      <speaker>Elder Queen</speaker>
+      <speech>
+         <infoMarked>ambient noises</infoMarked>
+      </speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>What do you believe?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>I believe them both. But for you, Tenno, perhaps this Kuva is just a symbol. That what you choose to do will define you more than anything.</speech>
+   </sp>
+   <info>Destroy</info>
+   <sp>
+      <speaker>???</speaker>
+      <speech>You mad at me, kiddo? Did you forget? You owe me.</speech>
+   </sp>
+   <info>Control</info>
+   <sp>
+      <speaker>???</speaker>
+      <speech>Don't forget, kiddo... you're nothing without me.</speech>
+   </sp>
+   <info>Consume</info>
+   <sp>
+      <speaker>???</speaker>
+      <speech>Hey, kiddo, what took you so long?</speech>
+   </sp>
+   <sp>
+      <speaker>Teshin</speaker>
+      <speech>The world weighs more heavily on you now. Try not to lose yourself, Tenno.</speech>
+   </sp>
+   <sp>
+      <speaker>Operator</speaker>
+      <speech>I won't.</speech>
+   </sp>
+   <info>THE WAR WITHIN</info>
+   <info>Inbox Messages</info>
+   <message>“
+      <messageBody>A child no longer
+         <mlb/>On icy mountaintop a child, cold and scared met an old man, the prisoner of a poison oath. For the child, a frozen death would have been a peaceful end. Instead, they fought on and found a fire within themselves, a way to light the path ahead.
+         <mlb/>The old man was a traitor. He deserved death, but the child was wise and merciful, and freed him from his burden. With that, the child left the cradle behind and they became more than a Tenno, they became themselves.
+         <mlb/>Tenno, if you can find a way to forgive this old man's deception, to trust him again, then he will be forever be in your service.
+         <mlb/>—Teshin Dax
+      </messageBody>”
+   </message>
+   <infoMarked>Attachments:  Broken Scepter,  Orvius Blueprint, Veiled Primary Riven Mod, Grineer Queens Glyph, The War Within Choice Scene</infoMarked>
+   <message>“
+      <messageBody>A Space to Make Your Own
+         <mlb/>It’s time we made some changes around here.
+      </messageBody>” —Ordis
+   </message>
+   <infoMarked>Attachment: Personal Quarters Segment Blueprint</infoMarked>
+   <sp>
+      <speaker>Ordis</speaker>
+      <speech>Operator, Ordis has been thinking. Now that you are here in the flesh, we should make the Orbiter more comfortable. Ordis has identified an old storage space you could use. Stand by while I --TORCH THIS JUNK-- dispose of my old belongings. Out with the old and in with the new, right, Operator? Construct this Domestic Habitation Segment to extend life support to your new room.</speech>
+   </sp>
+   <message>“
+      <messageBody>A Gift From The Past That Is Yet To Be
+         <mlb/>From the immeasurable skein of fate, woven unseen from infinite collisions between choice and outcome, action and reaction, cause and effect, a single object has been delivered into my possession.
+         <mlb/>And soon, from my possession to yours.
+         <mlb/>You come to Cetus. You find a door like no other. You show that door your true self. That door opens. Behind that door, I await you. From my possession to yours sweeps this single object, this impossible product of infinite choices - a singular thing intended solely for you.
+         <mlb/>To Cetus. To the door.
+      </messageBody>”
+   </message>
+   <info>After completing The War Within, being Mastery Rank 5, and owning a Railjack</info>
+   <message>“
+      <messageBody>Spare the Rod
+         <mlb/>Tenno are such arrogant, undisciplined children!
+         <mlb/>Mommy Lotus might spare the rod, but not ME! Every siphoned drop of the Old Blood makes my fortress grow stronger. Sweet, sweet Kuva!
+         <mlb/>Be on your best behavior, little one. You KNOW what you did to my sister. My Kuva Liches can make sure you get what you deserve!
+         <mlb/>Your Undying Queen
+      </messageBody>”
+   </message>
+   <info>After completing The War Within and Call of the Tempestarii, and being Mastery Rank 5</info>
+   <message>“
+      <messageBody>Corporate Machinations
+         <mlb/>Operator,
+         <mlb/>During a routine electromagnetic wave sweep, a most distressing message was intercepted on the Corpus network. Ordis hopes nothing comes of this murderous consortium, or rather, board meeting.
+         <mlb/>Do be careful.
+         <mlb/>Your loyal Cephalon, Ordis
+      </messageBody>”
+   </message>
+   <message>“
+      <messageBody>Lua Stirs
+         <mlb/>[PLAYER NAME],
+         <mlb/>Lua has felt my touch as I have felt its in return. Rescuing Lua - and you - from the Void may be changing this place. The Void stirs and shakes Lua to its core... exposing ancient halls long since abandoned.
+         <mlb/>Smelling possible treasure, the Grineer Worm Queen ordered her troops to descend upon these newly exposed halls. They were instantly Corrupted by its long dormant Orokin Neural Sentry.
+         <mlb/>The secrets that lie buried here are yours, not theirs.
+         <mlb/>Infiltrate the Yuvarium and Circulus, survive the Corrupted and we will claim those secrets together.
+         <mlb/>Lotus
+      </messageBody>”
+   </message>
+</xml>

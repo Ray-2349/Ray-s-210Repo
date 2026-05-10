@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>Hm? Oh. It's you.</speech>
+    </sp>
+    <speaker>Operator</speaker>
+    <optionBlock>
+        <option>Are you okay? <speech>This isn't just a bad memory, is it? This is new.</speech>
+        </option>
+        <option> ... What is that noise? <speech>I've seen that device before. Some kind of...
+                communicator?</speech>
+        </option>
+        <option> Don't listen to it! <speech>It's him. I knew he'd come after you next!</speech>
+        </option>
+    </optionBlock>
+    <speaker>Drifter</speaker>
+    <optionBlock>
+        <option>Careful there. <speech>Easy. You're scaring the kid.</speech>
+        </option>
+        <option> I'm here to help. <speech>Whatever this is, I'm not leaving you alone with
+                it.</speech>
+        </option>
+        <option> What do you mean, 'its you'? <speech>D'you mind explaining exactly what you mean by
+                that?</speech>
+        </option>
+    </optionBlock>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>You, my child. The Great Indifference wants to take. I want to let it. I feel...
+            only the call.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>You, my champion. Please. Drown out that noise that beckons. If any other answers
+            the call... no. It has to be you. Our paradox.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>Do you hear it? The calls of angels, devils, life itself? It's grown so loud. It
+            tries to follow in his footsteps through time. You must find him first.</speech>
+    </sp>
+    <info>Conclusion</info> The link to the past is forged, but time is running out. While Loid
+    works tirelessly and the Lotus keeps her lonely vigil, step by step the Indifference draws
+    closer to its coveted prey.” <info>The Visitor</info>
+    <message>Tenno, None of us could hear the Device that was calling from the abyss of history. The
+        Daughter of Hunhow heard it, and almost succumbed to its call. She raised her voice in song
+        to drown it out, and that we did hear. I should have known she was waiting for you. You
+        answered a call and in a way, found an answer. For me. The time is almost right to finish
+        the Kalymos Sequence. I will soon be able to send you to the city-state of Höllvania, in the
+        plague year of 1999 - a most perilous time. Without your equipment, you would surely perish.
+        Luckily, the Vessels have a connection to Albrecht's "volunteers" that I believe I can
+        exploit. You will not arrive unarmed, nor unarmored. We won't be late! Loid</message> ”
+        <info>In Sanctum Anatomica</info>
+    <info>Natah/Lotus/Margulis</info>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>I was the Daughter. I became the Mother. In time I shall be the Witch, blind once
+            again, empty of all but wisdom.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>It is hungry, Tenno. And I... am a distraction.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>Lotus. Margulis. Natah. We live... we rise... we endure.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>I will guide you, as I always have.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>Within this shell, the three of us entwine. We forge a new strength.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>The system is changing. We are changing. If I become something you do not recognize,
+            do not mourn.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>You know what It gave. But what did you promise it in return?</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>I will not let It devour one instant of my pain. Not even Ballas. Not even the Jade
+            Light.</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>Lua. The miracle. Do you understand what it cost?</speech>
+    </sp>
+    <sp>
+        <speaker>Natah/Lotus/Margulis</speaker>
+        <speech>I kept vigil while you slept through the dark centuries. I can do it again.</speech>
+    </sp>
+    <info>Loid (Original)</info>
+    <sp>
+        <speaker>Loid (Original)</speaker>
+        <speech>I cannot envision the burden she has taken upon herself... nor what it is costing
+            her.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid (Original)</speaker>
+        <speech>The Daughter of Hunhow seems content to guide your missions from here.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid (Original)</speaker>
+        <speech>The Cavia are wary of our visitor. I have reassured them she is to be trusted. Not
+            that they have to listen to anything I have to say, mind.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid (Original)</speaker>
+        <speech>Our 'guest' is still with us. I would make her more comfortable if I had the
+            slightest idea how.</speech>
+    </sp>
+    <sp>
+        <speaker>Loid (Original)</speaker>
+        <speech>She remains as she was, Tenno. Attentive. Watching.</speech>
+    </sp>
+</xml>

@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <sp>
+        <speaker>TV Announcer</speaker>
+        <speech>It's December 31st, 1999. Let's SAY GOODBYE to the OLD YEAR with a track you all
+            know and love from GLOBAL sensation On-Lyne!</speech>
+    </sp>
+    <info>HÖLLVANIA CENTRAL MALL</info>
+    <info>REACTOR INCIDENT IN 23 HRS 59 MINS</info>
+    <info>ARTHUR NIGHTINGALE</info>
+    <info>ROLE - SQUAD LEADER</info>
+    <info>BATCH - 'EXCALIBUR'</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Not again!</speech>
+    </sp>
+    <info>UNDR MIRAS AVE</info>
+    <info>10 MIN</info>
+    <info>DNT B L8</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Bastard.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I'm on break, Arthur. Don't mess with my gametime.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Need my Tommy keys, Amir. I'm not letting another lead on Entrati go to
+            waste.</speech>
+    </sp>
+    <info>AMIR BECKETT</info>
+    <info>ROLE - TECHNICIAN</info>
+    <info>BATCH - 'VOLT'</info>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech><infoMarked>Grunts</infoMarked>That, that was cheating.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>My keys better not be in that mess.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Learn to hotwire, geez!</speech>
+    </sp>
+    <info>AOI MOROHOSHI</info>
+    <info>ROLE - LOGISTICS</info>
+    <info>BATCH - 'MAG'</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Did you take my damn keys?</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Don't distract me, boyscout.</speech>
+    </sp>
+    <info>QUINCY ISAACS</info>
+    <info>ROLE - MARKSMAN</info>
+    <info>BATCH - 'CYTE-09'</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>No disrespect, Quincy. Got places to be, is all.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Someone is taking my stuff.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>How's she doing?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>If she wasn't your blood, she'd be on her own out there.</speech>
+    </sp>
+    <info>LETICIA GARCIA</info>
+    <info>ROLE - MEDIC</info>
+    <info>BATCH - 'TRINITY'</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Got a lead on Entrati. Sewers. Arse deep in Techrot, most likely. I'm going after
+            him, for all our sakes. Lettie, look, if you've taken my keys again...</speech>
+    </sp>
+    <info>ELEANOR NIGHTINGGALE</info>
+    <info>ROLE - PSYCH-OPS</info>
+    <info>BATCH - 'NYX'</info>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Hold up, hero boy. You're going after Doctor E all by yourself?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Or maybe you're gonna bail on us, Arthur? Forget it.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>We're in this mess because of you.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I'm coming too! Guys? Uh... am I sensing some tension here?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>No one's bailing. I got us into this, and if it kills me, I'll get us- fine. Aoi,
+            Amir, Quincy on backup. Lettie, you and Eleanor hold the fort here, keep the gennies
+            running.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>The Doktor's dashing patient-zero in the flesh?</speech>
+    </sp>
+    <info>MAJOR NECI RUSALKA</info>
+    <info>ROLE - SCALDRA COMMANDER</info>
+    <info>ARMAMENT - EFERVON HARNESS</info>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Shame. But my Scaldra have their orders.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Kill. On. Sight.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Pity. We could've been allies, kiddo. My Scaldra. Put that thing down!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Iced 'em. Too slow, Arthur.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>I had it under control.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Have it your way. By this time next year, nothing will remain of you slugs.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Meet the co-star of your grand finale. An H-04 Efervon Tank. Enjoy.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Requesting assistance!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>The vents above the treads!</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Viktor? Drop them in. NOW.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Found a hole in its shield, Arthur!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Thanks, Quincy.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Wake up, brother. He comes. A crownless king, clad in gold. A pallid beast...
+            tap-tap-tapping.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur! What the hell was that? Where are you? Come in!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>He's here. Deep in the Techrot. I'm going after him.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>What in hell...</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Entrati! What devils follow you?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Bring the hellfire!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>That... was VERY rude.</speech>
+    </sp>
+    <info>SCALDRA INTERROGATION CELL</info>
+    <info>REACTOR INCIDENT IN 19 HRS 27 MINS</info>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Viktor. That's no way to treat our little tourist.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>He won't talk.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Oh. Not even to me?</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Hmph. Not my type.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Oh, but we're old friends.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>Aren't we, master?</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>Master, my master. Why hast thou abandoned me?</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>All that matters is I'm here now. There, there... my faithful man-cat.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>But is it really you? After all these years I've - UGH! Master! You're hurting
+            me!</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Ha! That's it, isn't it? The poison to your plan.</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>And what is that?</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Love.</speech>
+    </sp>
+    <info>HÖLLVANIA CENTRAL MALL</info>
+    <info>REACTOR INCIDENT IN 19 HRS 10 MINS</info>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Woah. Like Marty McFlea.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>You takin' the piss?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>If it's bullshit, I'll feed Marty here to the Techrot myself. But the clock's
+            running out.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>The nuke kinda makes sense, actually.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Happy New Year.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Well, you're on point, Marty. But you try any of those head games again and there
+            won't be much left for Lettie to stitch back up. You read me?</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Loud and clear.</speech>
+    </sp>
+    <info>Ride or Die</info>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Check me out. Givin' kit to Entrati's Cybercop.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Naw. More like V-1000. Sent to smoke us all, am I right?</speech>
+    </sp>
+    <sp>
+        <speaker>TV Announcer</speaker>
+        <speech>Brrr! We got a blizzard coming in! Well, the On-lyne boys had better get their lip
+            balm ready before the big show, or it's gonna be a chappy New Year!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>So you just puppet this thing? Whole lot of metal in there...</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur's taking a chance on you. You hurt him, and I'll twist you inside out. Try
+            not to scratch the paint.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Lettie, you buying this shit?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>No, Aoi, I am not.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Cut the chatter. 19 hours til we're popping corks, or vaporized. We get Entrati and
+            put a stop to this.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Höllvania. The eve of a new millennium brings with it great change. The war criminal
+            Albrecht Entrati, father of the Techrot plague, has at last been captured. His
+            co-conspirators, the terrorist cell known as 'Hex', will soon be brought to justice.
+            Tonight, we will fill the great... Void of suffering. A New Year... A new era! Höllvania
+            will be great once again!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Right, we're the terrorists. Love what you've done with the place, lady.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Lotta heat here in the opp-block, Arthur. You sure Marty's lead isn't just a setup?
+            You holding something back, heroboy?</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>You wouldn't believe it anyway.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Amir, you said the nuke story made sense. This Y2K shit real?</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Of course it's real. Some glitch in the old control software. Probably written in
+            COBOL.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>¡Ah chingao<infoMarked>Shit</infoMarked>!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Holding cells ahead. Big moment for you, Marty.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>He'll be there.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>You better have him. Marty? Is Entrati there?</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>He's gone. It's broken through already. Changing things.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Bollocks! Get your arse out of there! Quincy, Aoi, we need fire support!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>I told you this was a set-up!</speech>
+    </sp>
+    <info>Spore Busters</info>
+    <info>HÖLLVANIA CENTRAL MALL</info>
+    <info>REACTOR INCIDENT IN 14 HRS 5 MINS</info>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>So what do you want me to do, Lettie?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Maybe, we cut our losses like we should've done weeks ago. We pack up and get the
+            hell out of this estercolero before it's turned to ash. Just an idea!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>You don't have a problem with a few hundred thousand going up in smoke?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Anyone still stuck here is Techrot anyway. Sometimes you have to amputate, Aoi. And
+            cauterize.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Didn't come out here to cut an' hide. If Doctor E won't stop this, then I say we do
+            it. Am I right, Amir? AMIR?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>So where's Entrati? You said this was a loop.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Not anymore, is it? Your Boogeyman changed the rules. You're toast like the rest of
+            us now.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Seems so. But that means we can change it too.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Stop the nuke.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>No one listens.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Get me wired in.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>The Techrot's pumping out spores.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>I don't want more of that shit in my system!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Slow it, Lettie! Amir. Talk to me. Is your plan ready?</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Uh... almost. Just needs a transponder onsite. Any Scaldra console down there should
+            do it.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Hell-Scrubbers! Giant air filters to capture Techrot spores. I've commandeered their
+            deployment system. Just need you to keep them pumping.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Quincy and Marty, keep the air clean while the rest of us search the tunnels for a
+            terminal. You too, Lettie.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>I start turning like Eleanor, I'll be haunting your ass.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>New Hell-Scrubber inbound!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Likkle Amir knows all about these opps and their systems. A proper boss like you is
+            smart enough to figure it out, innit, Marty?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Eleanor, you sensing any civilians down here?</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Not one.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>So. Wherever they're hiding out, it's above ground. That's a mercy.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Amir! Found a terminal!</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Coming! What. No no no no no. That's... not a terminal, Arthur. Not any
+            more.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Oh, shit. Aim for the head!</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>See this is why the Major wears a freakin' face mask.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Oh, please. You're as infected as the rest of us, Lettie.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Yeah? Look up 'latent infection', bitch.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Hold. Sensing a Scaldra force on the surface.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Even Scaldra got more sense than to come down here.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>We'll see. Keep us posted.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Amir? You in?</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Root access confirmed. Höllvania Public Utilities I am in you! Huh? MP3s?!-</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>What did you do, Amir? Come in? Comm's dead.</speech>
+    </sp>
+    <info>Shitbox Convoy</info>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>What is going on?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Isn't it great? Amir got these from the hack!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Amir! Can't hear myself think!</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Sorry! Got it!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Awww... come on!</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Kalymos?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>She showed up after the hack. Uh. Look. Marty. Maybe we got off on the
+            wrong-</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Entrati.</speech>
+    </sp>
+    <info>ENTRATI BACKROOM</info>
+    <info>REACTOR INCIDENT IN 11 HRS 31 MINS</info>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>...T-T-T-Tenno. If you are seeing this your loop has been altered.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>No kidding.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>You and I are trapped here. Soon the Murmur will crawl through the cracks and devour
+            this world and its possibilities.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Our only means of escape... our only hope to contain this horror I have created...
+            will require a spark of energy rare in this timeline. You know what this means.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Do not allow Arthur and the Hex to stop this. I realize what I am asking... but you
+            of all people understand what is at stake. For the sake of everything before and to
+            come... at midnight tonight... the 'bomb' must go off.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>We found him, Marty! Come on!</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Who?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>We got chatter on Scaldra comms! They've been moving a V.I.P. at regular intervals.
+            It's gotta be Dr. E, right? Meet me across town.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>Fences up, Scaldra.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>That convoy's a trap. I doubt Entrati's even on it.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>If there's a chance he's on it, we have to try. Only he can stop this.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Convoy approaching the Mehra Tunnels. That's the place to hit them.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>No air support. Smart.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>I'm just a pretty face, Arthur. Oh sh-</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Arthur, what if he doesn't know?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Just haul arse to Aoi. Rest of us will catch up.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Get these assholes off my back.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Too. Heavy.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Still not used to... whatever this is. Here. Let's ditch the cycles for something
+            less... conspicuous.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Thaaaank yoooou!</speech>
+    </sp>
+    <info>MEHRA TUNNELS, HÖLLVANIA</info>
+    <info>REACTOR INCIDENT IN 10 HRS 41 MINS</info>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Nice one, Marty!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Wasted!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Pick the bones out of that!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Yeah!!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Eat that, jerk!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Whammo!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>That was a good one!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Hah hah hah hah ha.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur's caught up!</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>So you're the new lapdog, kiddo? Tell me, Toto, what's he done to earn your
+            loyalty?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>You know this witch!?</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Uh... it's complicated.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Not the jealous type! But! If I can't have him... you can't either!</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Here is the breach. With each cycle, more seeps into her.</speech>
+    </sp>
+    <sp>
+        <speaker>Major Neci Rusalka</speaker>
+        <speech>Who... who are you?</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Kill her. Now.</speech>
+    </sp>
+    <info>[Sun] You do it.</info>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>You do it. I'm not your puppet.</speech>
+    </sp>
+    <info>[Neutral] It's not really her...</info>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>But it's not really her that's doing this...</speech>
+    </sp>
+    <info>[Moon] I'd be no different.</info>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>What? Then how would I be any different?</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>If you cannot sacrifice even this much... how will you do what comes next?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>What's he talking about, Marty?</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Maybe I won't.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Are you more a child than your other? Do you think I am not haunted by these
+            choices?</speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>
+            <infoMarked>laughs</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>The Man in the Wall</speaker>
+        <speech>XATA FASS XATA.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Wahhh?!?? Marty's legit!</speech>
+    </sp>
+    <info>The Zoo</info>
+    <info>ENTRATI BACKROOM</info>
+    <info>REACTOR INCIDENT IN 4 HRS 52 MINS</info>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Nice score you got us here, Arthur. But you know what? I've had by fill of the
+            circus. I'm out.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Quincy... c'mon man! Maybe we don't need Marty to stop this? Don't-</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>-North's your best bet. Mountains might be a chance against the fallout.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Cheers. Look-</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>-Anyone else? No?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>We'll still follow you, brave king. But this half-assed plan's gone full-guano.
+            Amir's Y2K thing won't even work.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Yeah. I should have said. Controller's air-gapped. Good policy actually.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Air-gapped.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Off net. We'd have to 'full-on' the reactor and patch it direct. Only about four
+            thousand Scaldra to the six of us. Bad odds güey.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Five of us. Arthur, maybe it is time to bail.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>There's an army beneath our feet. You all know it. My loving brother just needs to
+            ask. I know he's itching to.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor... Arthur, don't you dare. She's barely hanging on as it is.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>You said it yourself, Lettie. Bad odds. Eleanor. I'm asking. Please.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Please? A grand New Year's Eve, indeed. Okey-dokey, Arthur. Who's on point?</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Princess Lucina Zoological Gardens. Free admission on New Year's Eve... if you can
+            get past the Scaldra.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Scaldra think they've contained the outbreak here. But the Techrot here is
+            different... more... patient... Biding their time...</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>They can do that?</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>Bad form to arrive early. And without your mystery date? I thought they taught
+            Britannic men better...</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Viktor, you love this city. Y2K is gonna haywire the plant. Call off your dogs for
+            the night and help us.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>Y2K? Ozone? Acid rain? And I took you for a warrior. Air support, you are go for
+            drop.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>Mediocre display. Not worth my time. Enjoy your picnic in the park,
+            children.</speech>
+    </sp>
+    <info>PRINCESS LUCINA ZOOLOGICAL GARDENS</info>
+    <info>REACTOR INCIDENT IN 2 HRS 50 MINS</info>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Wait here. I do this alone.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>I'm sorry we put you up to this.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>We've waited. Our Severed. Sister.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>I Queen of these. First sister from trees.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>Sisters. Wicked. Always jealous to be queen.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>Bad. Mad. Sad.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>She won't come back from this.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Then none of us will.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>Mine! Me! Mine!</speech>
+    </sp>
+    <info>LEGACYTE</info>
+    <info>PRIMITIVE TECHROT HIVEQUEEN</info>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>Me. Help. You. Many friends!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Many friends. Yes.</speech>
+    </sp>
+    <sp>
+        <speaker>Legacyte</speaker>
+        <speech>Many.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Less one.</speech>
+    </sp>
+    <info>????</info>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Are you more a child than your other? Do you think I am not haunted by these
+            choices?</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Entrati?! Get me out of here!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Shoot us in the back-</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>Eleanor is the first to die.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor!</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>Then Lettie.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Peak-a-boo.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>See ya soon, momma.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>I've seen enough, Albrecht!</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>Not that old dog. This is me.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur! I can't-</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>
+            <infoMarked>grunts</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>These gifts you have: a piece of me. Given freely.</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>But those before you were butchers. Flayed flesh... for stolen stars.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I was... Too. Slow.</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>But those before you. They did not ask. They butchered me. My flesh fed their
+            greed.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Just... go.</speech>
+    </sp>
+    <info>PARTY OF YOUR LIFETIME</info>
+    <sp>
+        <speaker>On-lyne</speaker>
+        <speech><infoMarked>Zeke</infoMarked>How are we doin' Holvaniaahhhhhhh?!?!!<infoMarked>DJ
+                ROM</infoMarked>We can't heeeear you!<infoMarked>Zeke</infoMarked>Yo, sounds like
+            someone's tryna kick off the party without us!<infoMarked>Harddrive</infoMarked>No way,
+            man! Ain't no party 'til I show up!<infoMarked>Drillbit</infoMarked>Let's show 'em how
+            it's really done!<infoMarked>Packet</infoMarked>Höllvania, you ever been in
+                love?<infoMarked>Drillbit</infoMarked>And who's had their heart broken? We feel you.
+            But trust me— stay strong. Time heals everything. And I know you know it, right? 'Cause
+            love... is time.</speech>
+    </sp>
+    <info>HELL. YOU ARE NEVER GETTING OUT</info>
+    <info>ONLY 23 MINUTES LEFT, KIDDO</info>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Arthur, this place is swarming with Scaldra!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Hold there. She'll get it open.</speech>
+    </sp>
+    <info>HÖLLVANIA REACTOR ACCESS</info>
+    <info>THEY ARE ALL DEAD ALREADY</info>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor? You still okay?</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>We are fine.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>What's going on down there. Eight-squad? Eight-squad report! Get Efervon units down
+            there now!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Children! NO!!</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor, hold here. I'll clear the gas.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Shoot us in the back, Lettie?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Making sure that you are still... you.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Of course, we are.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>And you can be, too.</speech>
+    </sp>
+    <info>SNIPER'S NEST</info>
+    <info>TOO LITTLE TOO LATE</info>
+    <sp>
+        <speaker>Scaldra Eradicator</speaker>
+        <speech>Sir, the sub-floors have been breached. Requesting backup!</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>No! This is what they want. Hold!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>What the hell? Wait... Quincy?!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>You are proper shit at directions, Arthur. Heads down while I do my job, arright
+            mate?</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>
+            <infoMarked>pop?</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Got ya.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Peak-a-boo.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Show off. Better make a move, though. They'll get on you.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>I'm seeing this through.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Go! I got this.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>See ya soon, momma.</speech>
+    </sp>
+    <info>REACTOR CONTROL ROOM</info>
+    <info>END OF THE ROAD, KIDDO</info>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Don't have time for this!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Tell me you got this.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I can only type so fast!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Uh. Is that supposed to happen?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Amir?! Aoi, can you do something?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>What do you want me to do?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>I dunno, hold them in!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Aoi! Stop!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur! I can't! I can't! Arthur! Ar-!</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I was... Too. Slow.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>He's ash in seconds. No need for misery. Come. Now.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Murmur expelled. Tau is in sight. They've given their lives for this. Make it
+            count.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Just... go.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>No. I can save them.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Not unless you know them.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>
+            <infoMarked>Grunts</infoMarked>
+        </speech>
+    </sp>
+    <info>Conclusion</info>
+    <message>“<messageBody>The triumph of the Indifference falls in snow and ash as the shattered
+            corpses of The Hex lie in the midwinter cold.<mlb/>Only the Drifter's spirit refuses to
+            accept that the story is over. Somehow, the Hex are the key. But once the circle has
+            been broken, what can heal it again?</messageBody>”</message>
+    <message>“<messageBody>What happened?<mlb/>Drifter,<mlb/>I can make no sense at all of these
+            readings. Your site of temporal injection has somehow shifted. Your loop now encompasses
+            the entire year of 1999.<mlb/>Albrecht's interference is to blame, no doubt. What does
+            he feel you need more time to achieve? He surely must have given guidance, however
+            cryptic!<mlb/>I can offer one service, at least. I discovered a clandestine blueprint
+            among Albrecht's personal effects, for a Warframe so secret it was never named. It is
+            yours.<mlb/>Loid</messageBody>”</message>
+    <infoMarked>Attachments: Cyte-09 Blueprint, Magnetic Might, Forma</infoMarked>
+    <message>“<messageBody>A Missive From His Majesty DOMINUS THRAX<mlb/>To the erstwhile traitor
+            and conspirator known by the alias 'Drifter':<mlb/>That profane monstrosity of which the
+            Scholar spoke has sought to claim our throne. It wears a face and puppets a body that
+            knows you.<mlb/>We have confined it in the Apocrypha, the realm of Untold Stories, but
+            you now have a duty to keep it there.<mlb/>If it gains sufficient power, its story will
+            supplant ours!<mlb/>Seek its heretical tale, 'The Triumph of Dust'. Sever it from the
+            true tales of Duviri.<mlb/>His Radiant and Eternal Majesty,<mlb/>DOMINUS
+            THRAX</messageBody><mlb/>”</message>
+    <info>Finale</info>
+    <message>“<messageBody>Strengthen your connection to the Hex members before revisiting the New
+            Year's Eve disaster.</messageBody>”</message>
+    <sp>
+        <speaker>The Hex</speaker>
+        <speech>We're not gonna make it man! I don't... have... time. Maybe, we cut our losses like
+            we should have done weeks ago. What's he talking about, Marty? I told you this was a
+            set-up!. I can't! I can't! I can't!</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>Eleanor is the first to die.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Shoot us in the back-</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor? You still okay?</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>We are fine.</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>What's going on down there. Eight-squad? Eight-squad report! Get Efervon units down
+            there now!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Children! NO!!</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor, hold here. I'll clear the gas.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Shoot us in the back, Lettie?</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Making sure that you are still... you.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>Of course, we are.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>And you can be, too.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Eleanor, only here to help. It's up to you.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Eleanor... Eleanor!</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>I'm here.</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>And I thought we were becoming friends.</speech>
+    </sp>
+    <sp>
+        <speaker>Scaldra Eradicator</speaker>
+        <speech>Sir, the sub-floors have been breached. Requesting backup!</speech>
+    </sp>
+    <sp>
+        <speaker>Viktor</speaker>
+        <speech>No! This is what they want. Hold!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>What the hell? Wait... Quincy?!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>You are proper shit at directions, Arthur. Heads down while I do my job, arright
+            mate?</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Pop.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Got ya.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Peak-a-boo.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Show off. Better make a move, though. They'll get on you.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>I'm seeing this through.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Go! I got this.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>See?</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Yeah. Yeah, I do.</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Not today, momma. Area secure. Godspeed, Amir!</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>Did you forget? Albrecht's going to burn them all anyway!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Tell me you got this.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I can only type so fast!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Uh. Is that supposed to happen?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Amir?! Aoi, can you do something?</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>What do you want me to do?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>I dunno, hold them in!</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Aoi! Stop!</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Arthur! I can't! I can't! Arthur! Ar-!</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>You can. You're strong enough.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Oh. Oh!</speech>
+    </sp>
+    <sp>
+        <speaker>Indifference</speaker>
+        <speech>None of this matters.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Then why are you trying so hard to stop me?</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>We're not gonna make it man. I can't even compile in time-</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>-Then we go down swinging!</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Not now. Not now.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Amir, slow it down.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>I don't... have... time.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>
+            <infoMarked>Deep breath</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>
+            <infoMarked>Deep breath</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Hold out your hand.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Just... go. Mmm... dnnne.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Entrati...</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Bailed.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Sorry... mbout yur hnnd.</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Wha- are you-? Wait. nooo.</speech>
+    </sp>
+    <sp>
+        <speaker>Drifter</speaker>
+        <speech>Hey, let's get out of here, Arthur. Both of us. Okay?</speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>Okay.</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>Your heart would struggle to move them. It had to grow...</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>...the only way it ever does...</speech>
+    </sp>
+    <sp>
+        <speaker>Albrecht Entrati</speaker>
+        <speech>...with others. Carry this power with mercy, Tenno.</speech>
+    </sp>
+    <sp>
+        <speaker>The Hex</speaker>
+        <speech>
+            <infoMarked>Laughter</infoMarked>
+        </speech>
+    </sp>
+    <sp>
+        <speaker>Arthur</speaker>
+        <speech>What a day.</speech>
+    </sp>
+    <sp>
+        <speaker>Amir</speaker>
+        <speech>Well that burned a few calories!</speech>
+    </sp>
+    <sp>
+        <speaker>Quincy</speaker>
+        <speech>Man ain't nothin' without his mains. Respec'.</speech>
+    </sp>
+    <sp>
+        <speaker>Aoi</speaker>
+        <speech>Right here by your side. Now and always.</speech>
+    </sp>
+    <sp>
+        <speaker>Eleanor</speaker>
+        <speech>I'm not afraid to die... but I'm glad I didn't.</speech>
+    </sp>
+    <sp>
+        <speaker>Lettie</speaker>
+        <speech>Hey! After this we go for dinner.</speech>
+    </sp>
+    <info>THE SEQUENCE IS COMPLETE</info>
+    <message>“<messageBody>The Hex are united and the reactor is safe. History now follows a new
+            course.</messageBody>”</message>
+</xml>
